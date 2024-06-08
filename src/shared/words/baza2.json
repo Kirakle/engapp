@@ -1,0 +1,4074 @@
+[
+  {
+    "id": "01",
+    "definition": "Этапы действия, часть и целое",
+    "words": [
+      {
+        "word": "become (became, become)",
+        "translate": "становиться",
+        "examples": [
+          ["I want to become a vet", "Я хочу стать ветеринаром"],
+          ["She became a good teacher", "Она стала хорошим учителем"]
+        ],
+        "isLearn": false,
+        "id": "w1"
+      },
+      {
+        "word": "begin (began, begun)",
+        "translate": "начинать",
+        "examples": [
+          ["I began a new book", "Я начал (читать) новую книгу"],
+          ["Begin with something interesting", "Начни с чего-нибудь интересного"]
+        ],
+        "isLearn": false,
+        "id": "w2"
+      },
+      {
+        "word": "start",
+        "translate": "начинать",
+        "examples": [
+          ["Start the game", "Начните игру"],
+          ["Don’t start without me", "Не начинайте без меня"]
+        ],
+        "isLearn": false,
+        "id": "w3"
+      },
+      {
+        "word": "continue",
+        "translate": "продолжать",
+        "examples": [["to continue watching\\reading", "продолжать смотреть\\читать"]],
+        "isLearn": false,
+        "id": "w4"
+      },
+      {
+        "word": "go on (went on, gone on)",
+        "translate": "продолжать",
+        "examples": [
+          ["Go on!", "Продолжай! (напр. делать или говорить что-то)"],
+          ["Show must go on", "Шоу должно продолжаться"]
+        ],
+        "isLearn": false,
+        "id": "w5"
+      },
+      {
+        "word": "stop",
+        "translate": "заканчивать, останавливать",
+        "examples": [
+          ["Stop the car", "Остановите машину"],
+          ["Stop it!", "Прекрати!"]
+        ],
+        "isLearn": false,
+        "id": "w6"
+      },
+      {
+        "word": "end",
+        "translate": "заканчивать",
+        "examples": [
+          ["to end a game", "заканчивать игру"],
+          ["The story ends with their wedding", "История заканчивается их свадьбой"]
+        ],
+        "isLearn": false,
+        "id": "w7"
+      },
+      {
+        "word": "finish",
+        "translate": "заканчивать",
+        "examples": [
+          ["to finish breakfast", "заканчивать завтрак"],
+          ["to finish working", "заканчивать работу"]
+        ],
+        "isLearn": false,
+        "id": "w8"
+      },
+      {
+        "word": "last",
+        "translate": "длиться",
+        "examples": [
+          ["Nothing lasts forever", "Ничто не длится вечно"],
+          ["This hut will not last long", "Его хижина долго не продержится"]
+        ],
+        "isLearn": false,
+        "id": "w9"
+      },
+      {
+        "word": "accomplish",
+        "translate": "завершать",
+        "examples": [
+          ["to accomplish a mission", "завершать задание"],
+          ["to accomplish a journey", "завершать путешествие"]
+        ],
+        "isLearn": false,
+        "id": "w10"
+      },
+      {
+        "word": "prepare",
+        "translate": "подготавливать",
+        "examples": [
+          ["Prepare your documents", "Приготовьте свои документы"],
+          ["Prepare for troubles", "Приготовьтесь к неприятностям"]
+        ],
+        "isLearn": false,
+        "id": "w11"
+      },
+      {
+        "word": "postpone",
+        "translate": "откладывать",
+        "examples": [
+          ["Your job can’t be postponed", "Ваша работа не может быть отложена"],
+          ["We had to postpone our marriage", "Нам пришлось отложить нашу женитьбу"]
+        ],
+        "isLearn": false,
+        "id": "w12"
+      },
+      {
+        "word": "put off (put off, put off)",
+        "translate": "откладывать",
+        "examples": [
+          [
+            "Never put off  till tomorrow what you can do today",
+            "Никогда не откладывай на завтра то, что можешь сделать сегодня"
+          ]
+        ],
+        "isLearn": false,
+        "id": "w13"
+      },
+      {
+        "word": "divide",
+        "translate": "разделять",
+        "examples": [
+          ["to divide into three parts", "делить на три части"],
+          ["to divide by zero", "делить на ноль"]
+        ],
+        "isLearn": false,
+        "id": "w14"
+      },
+      {
+        "word": "consist of",
+        "translate": "состоять из",
+        "examples": [
+          [
+            "The country consists of the states and territories",
+            "Страна состоит из штатов и территорий"
+          ],
+          ["What does it consist of?", "Из чего это состоит?"]
+        ],
+        "isLearn": false,
+        "id": "w15"
+      },
+      {
+        "word": "include",
+        "translate": "включать (в себя что-то)",
+        "examples": [
+          [
+            "The book includes useful tips on cooking",
+            "Книга включает полезные советы о кулинарии"
+          ],
+          ["There were three of us including the dog", "Нас было трое, включая собаку"]
+        ],
+        "isLearn": false,
+        "id": "w16"
+      },
+      {
+        "word": "exclude",
+        "translate": "исключать",
+        "examples": [
+          ["You can’t exclude that possibility", "Вы не можете исключить эту возможность"],
+          ["Four people excluding Jim", "Четыре человека, исключая Джима"]
+        ],
+        "isLearn": false,
+        "id": "w17"
+      },
+      {
+        "word": "incorporate",
+        "translate": "включать (в себя что-то), объединяться",
+        "examples": [
+          [
+            "Your logo should incorporate an image",
+            "Ваш логотип должен включать в себя изображение"
+          ],
+          ["We will incorporate your idea into our plan", "Мы включим вашу идею в наш план"]
+        ],
+        "isLearn": false,
+        "id": "w18"
+      },
+      {
+        "word": "split (split, split)",
+        "translate": "разделять на части, расщеплять",
+        "examples": [
+          ["to split into two groups", "разделяться на две группы"],
+          ["to split a piece of wood", "раскалывать кусок древесины"]
+        ],
+        "isLearn": false,
+        "id": "w19"
+      },
+      {
+        "word": "contain",
+        "translate": "содержать (в себе)",
+        "examples": [
+          ["the drink contains alcohol", "напиток содержит алкоголь"],
+          [
+            "the reference book did not contain grammar exercises",
+            "в справочнике не было грамматических упражнений"
+          ]
+        ],
+        "isLearn": false,
+        "id": "w20"
+      },
+      {
+        "word": "separate",
+        "translate": "отделять",
+        "examples": [["to separate whites from yolks", "отделять белки от желтков"]],
+        "isLearn": false,
+        "id": "w21"
+      },
+      {
+        "word": "assemble",
+        "translate": "собирать (из частей)",
+        "examples": [
+          ["to assemble a computer", "собирать компьютер"],
+          ["to assemble a rifle", "собирать винтовку"]
+        ],
+        "isLearn": false,
+        "id": "w22"
+      }
+    ]
+  },
+  {
+    "id": "02",
+    "definition": "Движение",
+    "words": [
+      {
+        "word": "go (went, gone)",
+        "translate": "идти",
+        "examples": [
+          ["I am going to the grocery store", "Я иду в продуктовый магазин"],
+          ["I have to go", "Я должен идти"]
+        ],
+        "isLearn": false,
+        "id": "w23"
+      },
+      {
+        "word": "come (came, come)",
+        "translate": "приходить",
+        "examples": [
+          ["Come to my place", "Приходи ко мне"],
+          ["The winter is coming", "Зима приближается"]
+        ],
+        "isLearn": false,
+        "id": "w24"
+      },
+      {
+        "word": "turn",
+        "translate": "поворачивать",
+        "examples": [
+          ["Turn left, then right", "Поверните налево, затем направо"],
+          ["Turn around", "развернись"]
+        ],
+        "isLearn": false,
+        "id": "w25"
+      },
+      {
+        "word": "run (ran, run) ",
+        "translate": "бежать",
+        "examples": [
+          ["I run with my dog every morning", "Я бегаю со своей собакой каждое утро"],
+          ["You shouldn’t run in a mall", "Не следует бегать в торговом центре"]
+        ],
+        "isLearn": false,
+        "id": "w26"
+      },
+      {
+        "word": "move",
+        "translate": "двигать (-ся)",
+        "examples": [
+          ["to move slowly", "двигаться медленно"],
+          ["Move the chair", "Подвиньте стул"]
+        ],
+        "isLearn": false,
+        "id": "w27"
+      },
+      {
+        "word": "bring (brought, brought) ",
+        "translate": "приносить",
+        "examples": [
+          ["My dog brought me a bone", "Моя собака принесла мне кость"],
+          ["I need to bring the books back", "Мне нужно вернуть книги (принести назад)"]
+        ],
+        "isLearn": false,
+        "id": "w28"
+      },
+      {
+        "word": "sit (sat, sat)",
+        "translate": "сидеть",
+        "examples": [
+          ["Sit on the bench", "Садитесь на скамейку"],
+          ["Sit down, please", "Садитесь, пожалуйста"]
+        ],
+        "isLearn": false,
+        "id": "w29"
+      },
+      {
+        "word": "stand (stood, stood)",
+        "translate": "стоять",
+        "examples": [
+          ["to stand in the wind", "стоять на ветру"],
+          ["Stand straight", "Стой ровно"]
+        ],
+        "isLearn": false,
+        "id": "w30"
+      },
+      {
+        "word": "follow",
+        "translate": "следовать",
+        "examples": [
+          ["Follow me", "Следуйте за мной"],
+          ["Follow the steps", "Идите по следам"]
+        ],
+        "isLearn": false,
+        "id": "w31"
+      },
+      {
+        "word": "stop",
+        "translate": "останавливать (-ся)",
+        "examples": [
+          ["The car stopped by the river", "Машина остановилась у реки"],
+          ["I stopped the car by the river", "Я остановил машину у реки"]
+        ],
+        "isLearn": false,
+        "id": "w32"
+      },
+      {
+        "word": "walk",
+        "translate": "ходить (гулять)",
+        "examples": [
+          ["Walk more, it’s good for your health", "Больше ходи пешком, это полезно для здоровья"]
+        ],
+        "isLearn": false,
+        "id": "w33"
+      },
+      {
+        "word": "appear",
+        "translate": "появляться",
+        "examples": [["Someone appeared in the window", "Кто-то появился в окне"]],
+        "isLearn": false,
+        "id": "w34"
+      },
+      {
+        "word": "disappear",
+        "translate": "исчезать",
+        "examples": [["They all disappeared", "Они все исчезли"]],
+        "isLearn": false,
+        "id": "w35"
+      },
+      {
+        "word": "remain",
+        "translate": "оставаться",
+        "examples": [
+          ["My parents moved but I remained in here", "Мои родители переехали, но я остался здесь"]
+        ],
+        "isLearn": false,
+        "id": "w36"
+      },
+      {
+        "word": "leave (left, left)",
+        "translate": "уходить, покидать",
+        "examples": [
+          ["Leave! Just leave!", "Уходи! Просто уходи!"],
+          ["All the passengers left the train", "Все пассажиры вышли из поезда"]
+        ],
+        "isLearn": false,
+        "id": "w37"
+      },
+      {
+        "word": "raise",
+        "translate": "поднимать (-ся)",
+        "examples": [
+          ["Raise your hands", "Поднимите руки"],
+          ["to raise a sunken ship", "поднимать затонувший корабль"]
+        ],
+        "isLearn": false,
+        "id": "w38"
+      },
+      {
+        "word": "carry",
+        "translate": "нести",
+        "examples": [
+          ["He was carrying a bag", "Он нес сумку"],
+          ["I carried her teddy bear upstairs", "Он отнес наверх ее плюшевого медвежонка"]
+        ],
+        "isLearn": false,
+        "id": "w39"
+      },
+      {
+        "word": "drive (drove, driven)",
+        "translate": "вести машину",
+        "examples": [
+          ["I can’t drive", "Я не умею (не могу) водить"],
+          ["Drive carefully", "Ведите машину осторожно"]
+        ],
+        "isLearn": false,
+        "id": "w40"
+      },
+      {
+        "word": "throw (threw, torown)",
+        "translate": "бросать",
+        "examples": [
+          ["to throw a ball", "бросать мяч"],
+          ["He threw a rock at me", "Он бросил в меня камнем"]
+        ],
+        "isLearn": false,
+        "id": "w41"
+      },
+      {
+        "word": "push",
+        "translate": "толкать",
+        "examples": [
+          ["to push a car", "толкать машину"],
+          ["to push a door", "толкать дверь (открывать от себя)"]
+        ],
+        "isLearn": false,
+        "id": "w42"
+      },
+      {
+        "word": "lay (laid, laid)",
+        "translate": "класть",
+        "examples": [["to lay a book on the table", "класть книгу на стол"]],
+        "isLearn": false,
+        "id": "w43"
+      },
+      {
+        "word": "lie (lay, lain)",
+        "translate": "лежать, лгать",
+        "examples": [
+          ["Don’t lie to me!", "Не лги мне!"],
+          ["Just lie and rest", "Просто лежи и отдыхай"]
+        ],
+        "isLearn": false,
+        "id": "w44"
+      },
+      {
+        "word": "arrive",
+        "translate": "прибывать",
+        "examples": [
+          ["We arrive in Chicago in an hour", "Мы прибываем в Чикаго через час"],
+          ["My parcel arrived", "Моя посылка прибыла"]
+        ],
+        "isLearn": false,
+        "id": "w45"
+      },
+      {
+        "word": "shake (shook, shaken)",
+        "translate": "трясти",
+        "examples": [
+          ["to shake a bottle", "трясти бутылку"],
+          ["to shake head", "покачать головой (отрицательный жест)"]
+        ],
+        "isLearn": false,
+        "id": "w46"
+      },
+      {
+        "word": "fly (flew, flown)",
+        "translate": "летать",
+        "examples": [["Penguins can’t fly", "Пингвины не умеют летать"]],
+        "isLearn": false,
+        "id": "w47"
+      },
+      {
+        "word": "stay",
+        "translate": "оставаться",
+        "examples": [
+          ["You can go, I’ll stay", "Вы можете идти, я останусь"],
+          ["I want to stay with you", "Я хочу остаться с тобой"]
+        ],
+        "isLearn": false,
+        "id": "w48"
+      },
+      {
+        "word": "fall (fell, fallen)",
+        "translate": "падать",
+        "examples": [
+          ["I slipped and fell", "Я поскользнулся и упал"],
+          ["You have fallen so low", "Как низко вы пали"]
+        ],
+        "isLearn": false,
+        "id": "w49"
+      },
+      {
+        "word": "wear (wore, worn)",
+        "translate": "носить (напр. одежду)",
+        "examples": [
+          [
+            "The suspect was wearing black jeans and blue T-shirt",
+            "На подозреваемом были (он носил) черные джинсы и синяя футболка"
+          ],
+          ["Do you wear glasses?", "Вы носите очки?"]
+        ],
+        "isLearn": false,
+        "id": "w50"
+      },
+      {
+        "word": "step",
+        "translate": "шагнуть",
+        "examples": [["Close your eyes and step forward", "Закрой глаза и шагни вперед"]],
+        "isLearn": false,
+        "id": "w51"
+      },
+      {
+        "word": "roll",
+        "translate": "катиться, сворачивать",
+        "examples": [
+          ["Sonic rolls like a ball", "Соник катится как мяч"],
+          ["to roll a sheet of paper", "сворачивать лист бумаги"]
+        ],
+        "isLearn": false,
+        "id": "w52"
+      },
+      {
+        "word": "ride (rode, ridden)",
+        "translate": "ехать (напр. верхом)",
+        "examples": [
+          ["The knight was riding a war-horse", "Рыцарь ехал верхом на боевом коне"],
+          ["You can’t forget how to ride a bicycle", "Нельзя разучиться ездить на велосипеде"]
+        ],
+        "isLearn": false,
+        "id": "w53"
+      },
+      {
+        "word": "lift",
+        "translate": "поднимать",
+        "examples": [
+          ["People can’t lift that hammer", "Люди не могут поднять этот молот"],
+          ["to lift weights", "поднимать веса (тренироваться с отягощениями)"]
+        ],
+        "isLearn": false,
+        "id": "w54"
+      },
+      {
+        "word": "jump",
+        "translate": "прыгать",
+        "examples": [
+          ["Cats don’t jump. Normally", "Кошки не прыгают. Обычно"],
+          ["Jump as high as you can", "Прыгни как можно выше"]
+        ],
+        "isLearn": false,
+        "id": "w55"
+      },
+      {
+        "word": "approach",
+        "translate": "приближаться",
+        "examples": [["Someone is approaching", "Кто-то приближается"]],
+        "isLearn": false,
+        "id": "w56"
+      },
+      {
+        "word": "cross",
+        "translate": "пересекать",
+        "examples": [
+          ["to cross the river", "пересекать реку"],
+          ["to cross the street", "переходить улицу"]
+        ],
+        "isLearn": false,
+        "id": "w57"
+      },
+      {
+        "word": "climb",
+        "translate": "лезть (карабкаться)",
+        "examples": [
+          [
+            "Heavy old bears can’t climb trees",
+            "Тяжелые старые медведи не могут забираться на деревья"
+          ],
+          ["Climb the wall", "Заберись на стену"]
+        ],
+        "isLearn": false,
+        "id": "w58"
+      },
+      {
+        "word": "bear (bore, born)",
+        "translate": "нести",
+        "examples": [
+          ["to bear a heavy load", "нести тяжелый груз"],
+          ["to bear a tray", "нести поднос"]
+        ],
+        "isLearn": false,
+        "id": "w59"
+      },
+      {
+        "word": "shift",
+        "translate": "сдвигать",
+        "examples": [["The picture shifted a little", "Картина немного сдвинулась"]],
+        "isLearn": false,
+        "id": "w60"
+      },
+      {
+        "word": "slip",
+        "translate": "поскальзываться",
+        "examples": [["to slip on a banana skin", "поскользнуться на банановой кожуре"]],
+        "isLearn": false,
+        "id": "w61"
+      },
+      {
+        "word": "rush",
+        "translate": "торопиться (стремительно мчаться)",
+        "examples": [
+          ["The football player rushed forward", "Футболист рванул вперед"],
+          ["Don’t rush, you mess it up!", "Не торопись, ты все испортишь!"]
+        ],
+        "isLearn": false,
+        "id": "w62"
+      },
+      {
+        "word": "land",
+        "translate": "приземляться",
+        "examples": [["A plane takes off, flies, lands", "Самолет взлетает, летит, приземляется"]],
+        "isLearn": false,
+        "id": "w63"
+      },
+      {
+        "word": "escape",
+        "translate": "сбегать",
+        "examples": [["to escape from a prison", "сбегать из тюрьмы"]],
+        "isLearn": false,
+        "id": "w64"
+      },
+      {
+        "word": "drag",
+        "translate": "тащить (нести волоком)",
+        "examples": [["to drag a bag", "тащить мешок"]],
+        "isLearn": false,
+        "id": "w65"
+      },
+      {
+        "word": "slide (slid, slid)",
+        "translate": "скользить",
+        "examples": [
+          [
+            "Do not slide on the ice patch, you can slip and fall",
+            "Не скользи по льду, ты можешь поскользнуться и упасть"
+          ],
+          ["Slide me the box", "Брось мне ящик (подкати его броском по льду)"]
+        ],
+        "isLearn": false,
+        "id": "w66"
+      },
+      {
+        "word": "toss",
+        "translate": "бросать (метать)",
+        "examples": [
+          ["to toss a paper plane", "бросать бумажный самолетик"],
+          ["to toss a coin in a hat", "бросать монетку в шляпу"]
+        ],
+        "isLearn": false,
+        "id": "w67"
+      },
+      {
+        "word": "accompany",
+        "translate": "сопровождать",
+        "examples": [
+          ["I accompanied my friend on his trip", "Я сопровождал друга в поездке"],
+          [
+            "He was released from police custody and accompanied to his home",
+            "Он был отпущен из под ареста (задержания в полиции) и сопровожден до дома"
+          ]
+        ],
+        "isLearn": false,
+        "id": "w68"
+      },
+      {
+        "word": "swing (swung, swung)",
+        "translate": "раскачивать",
+        "examples": [
+          ["to swing a boat", "раскачивать лодку"],
+          ["to swing", "кататься на качелях"]
+        ],
+        "isLearn": false,
+        "id": "w69"
+      },
+      {
+        "word": "advance",
+        "translate": "продвигаться",
+        "examples": [
+          ["The army advanced deep into the country", "Армия продвинулась глубоко в страну"]
+        ],
+        "isLearn": false,
+        "id": "w70"
+      },
+      {
+        "word": "swim (swam, swum)",
+        "translate": "плыть",
+        "examples": [
+          ["I can’t swim", "Я не умею плавать"],
+          ["to swim crawl", "плыть кролем"]
+        ],
+        "isLearn": false,
+        "id": "w71"
+      },
+      {
+        "word": "flee",
+        "translate": "убегать, спасаться бегством",
+        "examples": [
+          ["Animals flee from fire", "Животные спасаются от пожара бегством"],
+          ["The enemy fled to the forest", "Враг сбежал в лес"]
+        ],
+        "isLearn": false,
+        "id": "w72"
+      },
+      {
+        "word": "sink (sank, sunk)",
+        "translate": "тонуть",
+        "examples": [["Any ship might sink", "Любой корабль может утонуть"]],
+        "isLearn": false,
+        "id": "w73"
+      }
+    ]
+  },
+  {
+    "id": "03",
+    "definition": "Наличие, отсутствие, принадлежность",
+    "words": [
+      {
+        "word": "be (was, been)",
+        "translate": "быть",
+        "examples": [
+          ["To be or not to be?", "Быть или не быть?"],
+          ["Be careful", "Будь осторожен"]
+        ],
+        "isLearn": false,
+        "id": "w74"
+      },
+      {
+        "word": "exist",
+        "translate": "существовать",
+        "examples": [
+          ["Ideal people do not exist", "Идеальных людей не существует"],
+          ["Did dragons exist?", "Драконы существовали?"]
+        ],
+        "isLearn": false,
+        "id": "w75"
+      },
+      {
+        "word": "include",
+        "translate": "включать (в себя что-либо)",
+        "examples": [
+          ["The list of guest does not include your name", "Список гостей не включает ваше имя"],
+          ["Five people including me", "Пять человек, включая меня"]
+        ],
+        "isLearn": false,
+        "id": "w76"
+      },
+      {
+        "word": "exclude",
+        "translate": "исключать",
+        "examples": [
+          ["Exclude me from the list", "Исключите меня из списка"],
+          ["Five people excluding me", "Пять человек, исключая меня"]
+        ],
+        "isLearn": false,
+        "id": "w77"
+      },
+      {
+        "word": "add",
+        "translate": "добавлять",
+        "examples": [
+          ["I added pepper to your soup", "Я добавил перца в твой суп"],
+          ["to add three to one", "прибавлять три к одному"]
+        ],
+        "isLearn": false,
+        "id": "w78"
+      },
+      {
+        "word": "enter",
+        "translate": "вводить, входить",
+        "examples": [
+          ["Enter your password", "Введите ваш пароль"],
+          ["Enter the room", "Войдите в комнату"]
+        ],
+        "isLearn": false,
+        "id": "w79"
+      },
+      {
+        "word": "share",
+        "translate": "делиться",
+        "examples": [
+          ["She does not share her thoughts with me", "Она не делится со мной своими мыслями"],
+          ["Share your food with them", "Поделитесь своей едой с ними"]
+        ],
+        "isLearn": false,
+        "id": "w80"
+      },
+      {
+        "word": "remove",
+        "translate": "удалять",
+        "examples": [
+          ["She removed a snowflake from her hair", "Она убрала снежинку со своих волос"],
+          ["Do not remove the bandage", "Не снимайте повязку"]
+        ],
+        "isLearn": false,
+        "id": "w81"
+      },
+      {
+        "word": "receive",
+        "translate": "получать",
+        "examples": [["I did not receive your letter", "Я не получил твое письмо"]],
+        "isLearn": false,
+        "id": "w82"
+      },
+      {
+        "word": "lose (lost, lost)",
+        "translate": "терять",
+        "examples": [
+          ["I lost my keys", "Я потерял свои ключи"],
+          ["I lost my mind", "Я сошел с ума (букв. «потерял разум»)"]
+        ],
+        "isLearn": false,
+        "id": "w83"
+      },
+      {
+        "word": "find (found, found)",
+        "translate": "найти",
+        "examples": [["I can’t find the exit", "Я не могу найти выход"]],
+        "isLearn": false,
+        "id": "w84"
+      },
+      {
+        "word": "have (had, had)",
+        "translate": "иметь",
+        "examples": [
+          ["I have an apple", "У меня есть яблоко"],
+          ["What do you have?", "Что у вас есть?"]
+        ],
+        "isLearn": false,
+        "id": "w85"
+      },
+      {
+        "word": "be present",
+        "translate": "присутствовать",
+        "examples": [
+          ["Why are your parents not present here?", "Почему твои родители здесь не присутствуют?"]
+        ],
+        "isLearn": false,
+        "id": "w86"
+      },
+      {
+        "word": "be absent",
+        "translate": "отсутствовать",
+        "examples": [["Who is absent?", "Кто отсутствует?"]],
+        "isLearn": false,
+        "id": "w87"
+      },
+      {
+        "word": "get (got, got\\gotten)",
+        "translate": "получить (становиться)",
+        "examples": [
+          ["You need to get the drug  prescription", "Вам нужно получить рецепт на лекарство"],
+          ["I am getting tired of this", "Я устаю от этого"]
+        ],
+        "isLearn": false,
+        "id": "w88"
+      },
+      {
+        "word": "take (took, taken)",
+        "translate": "брать",
+        "examples": [
+          ["Take a pie from the shelf", "Возьми пирожок с полки"],
+          ["Take my watch and keep it", "Возьми мои часы и оставь себе"]
+        ],
+        "isLearn": false,
+        "id": "w89"
+      },
+      {
+        "word": "give (gave, given)",
+        "translate": "давать",
+        "examples": [
+          ["Give me the phone, please", "Дайте мне телефон, пожалуйста"],
+          ["She gave me her phone number", "Она дала мне свой номер телефона"]
+        ],
+        "isLearn": false,
+        "id": "w90"
+      },
+      {
+        "word": "return",
+        "translate": "возвращать",
+        "examples": [
+          ["to return home", "возвращаться домой"],
+          ["to return books to the library", "возвращать книги в библиотеку"]
+        ],
+        "isLearn": false,
+        "id": "w91"
+      },
+      {
+        "word": "join",
+        "translate": "присоединять",
+        "examples": [
+          ["Join us, we have cookies", "Присоединяйся к нам, у нас есть печеньки"],
+          ["to join one wire to another", "соединять один провод с другим"]
+        ],
+        "isLearn": false,
+        "id": "w92"
+      },
+      {
+        "word": "involve",
+        "translate": "вовлекать",
+        "examples": [
+          [
+            "The boy shouldn’t be involved in your quarrel",
+            "Не нужно вовлекать мальчика в вашу ссору"
+          ],
+          [
+            "The professor involved his students in a project",
+            "Профессор вовлек своих студентов в проект"
+          ]
+        ],
+        "isLearn": false,
+        "id": "w93"
+      },
+      {
+        "word": "release",
+        "translate": "выпускать (отпускать)",
+        "examples": [
+          ["to release prisoners", "выпускать пленников"],
+          ["to release a film", "выпускать фильм"]
+        ],
+        "isLearn": false,
+        "id": "w94"
+      },
+      {
+        "word": "own",
+        "translate": "владеть",
+        "examples": [
+          ["Miss Page owns a gun", "У мисс Пейдж есть пистолет"],
+          ["Who owns that land?", "Кто владеет этой землей?"]
+        ],
+        "isLearn": false,
+        "id": "w95"
+      },
+      {
+        "word": "gain",
+        "translate": "получать, набирать (прибавлять в чем-то)",
+        "examples": [
+          ["to gain weight", "набирать вес"],
+          ["to gain access to something", "получать доступ к чему-то"]
+        ],
+        "isLearn": false,
+        "id": "w96"
+      },
+      {
+        "word": "emerge",
+        "translate": "появляться",
+        "examples": [["The shark has emerged from the water", "Акула появилась из воды"]],
+        "isLearn": false,
+        "id": "w97"
+      },
+      {
+        "word": "expand",
+        "translate": "расширять (-ся)",
+        "examples": [
+          ["Our company is expanding", "Наша компания расширяется"],
+          ["This gym bag expands", "Эта спортивная сумка раскладывается (расширяется)"]
+        ],
+        "isLearn": false,
+        "id": "w98"
+      },
+      {
+        "word": "disappear",
+        "translate": "исчезать",
+        "examples": [
+          ["All my fears have disappeared", "Все мои страхи исчезли"],
+          ["My knight has disappeared!", "Мой конь (шахматная фигура) исчез!"]
+        ],
+        "isLearn": false,
+        "id": "w99"
+      },
+      {
+        "word": "obtain",
+        "translate": "получать",
+        "examples": [
+          ["to obtain a reward", "получать награду"],
+          ["to obtain a parcel", "получить посылку"]
+        ],
+        "isLearn": false,
+        "id": "w100"
+      },
+      {
+        "word": "belong",
+        "translate": "принадлежать",
+        "examples": [
+          ["This ring belongs to the royal family", "Это кольцо принадлежит королевской семье"]
+        ],
+        "isLearn": false,
+        "id": "w101"
+      },
+      {
+        "word": "limit",
+        "translate": "ограничивать",
+        "examples": [
+          ["to limit the size and number", "ограничивать размер и количество"],
+          ["He limited himself to one cup of coffee", "Он ограничился одной чашкой кофе"]
+        ],
+        "isLearn": false,
+        "id": "w102"
+      },
+      {
+        "word": "spread (spread, spread)",
+        "translate": "распространять (-ся)",
+        "examples": [
+          ["to spread a word", "разносить молву (букв.: «распространять слово»)"],
+          ["to spread butter", "намазывать масло (размазывать)"]
+        ],
+        "isLearn": false,
+        "id": "w103"
+      },
+      {
+        "word": "extend",
+        "translate": "расширять (-ся)",
+        "examples": [
+          ["My neighbour extended his house", "Мой сосед расширил свой дом"],
+          ["to extend a fence", "достраивать (удлинять) забор"]
+        ],
+        "isLearn": false,
+        "id": "w104"
+      },
+      {
+        "word": "acquire",
+        "translate": "приобретать (получать)",
+        "examples": [
+          ["to acquire a diploma", "получать диплом"],
+          ["to acquire information", "получать информацию"]
+        ],
+        "isLearn": false,
+        "id": "w105"
+      },
+      {
+        "word": "abandon",
+        "translate": "покидать",
+        "examples": [
+          ["Rats abandon a sinking ship", "Крысы бегут с тонущего корабля"],
+          ["He abandoned his friend in trouble", "Он бросил своего друга в беде"]
+        ],
+        "isLearn": false,
+        "id": "w106"
+      },
+      {
+        "word": "arise (arose, arisen)",
+        "translate": "возникать",
+        "examples": [
+          ["Some difficulties have arisen", "Возникли некоторые трудности"],
+          ["Doubts arose in his mind", "У него возникли сомнения"]
+        ],
+        "isLearn": false,
+        "id": "w107"
+      },
+      {
+        "word": "possess",
+        "translate": "обладать (владеть)",
+        "examples": [["Peasants couldn’t possess weapons", "Крестьяне не могли владеть оружием"]],
+        "isLearn": false,
+        "id": "w108"
+      },
+      {
+        "word": "leave (left, left)",
+        "translate": "оставить",
+        "examples": [
+          ["Leave me alone", "Оставьте меня одного"],
+          ["Leave your camera here", "Оставь свой фотоаппарат здесь"]
+        ],
+        "isLearn": false,
+        "id": "w109"
+      },
+      {
+        "word": "occupy",
+        "translate": "занимать (место)",
+        "examples": [
+          ["The playground occupied a lot of space", "Игровая площадка занимала много места"]
+        ],
+        "isLearn": false,
+        "id": "w110"
+      }
+    ]
+  },
+  {
+    "id": "04",
+    "definition": "Работа, сотрудничество",
+    "words": [
+      {
+        "word": "work",
+        "translate": "работать",
+        "examples": [
+          ["to work on a project", "работать над проектом"],
+          ["to work with a partner", "работать с партнером"]
+        ],
+        "isLearn": false,
+        "id": "w111"
+      },
+      {
+        "word": "keep (kept, kept)",
+        "translate": "хранить",
+        "examples": [
+          ["to keep food", "хранить продукты"],
+          ["to keep secrets", "хранить секреты"]
+        ],
+        "isLearn": false,
+        "id": "w112"
+      },
+      {
+        "word": "help",
+        "translate": "помогать",
+        "examples": [
+          ["to help a friend", "помогать другу"],
+          ["to help a friend with something", "помогать другу с чем-то"]
+        ],
+        "isLearn": false,
+        "id": "w113"
+      },
+      {
+        "word": "write (wrote, written)",
+        "translate": "писать",
+        "examples": [
+          ["to write a story", "писать рассказ"],
+          ["to write in English", "писать на английском языке"]
+        ],
+        "isLearn": false,
+        "id": "w114"
+      },
+      {
+        "word": "provide",
+        "translate": "обеспечивать",
+        "examples": [
+          ["to provide people with help food", "обеспечивать людям питание"],
+          ["to provide housing", "предоставлять жилье"]
+        ],
+        "isLearn": false,
+        "id": "w115"
+      },
+      {
+        "word": "pay (paid, paid)",
+        "translate": "платить",
+        "examples": [
+          ["to pay for the product or service", "платить за товар или услугу"],
+          ["to pay the bills", "оплачивать счета"]
+        ],
+        "isLearn": false,
+        "id": "w116"
+      },
+      {
+        "word": "lead (led, led)",
+        "translate": "лидировать (возглавлять)",
+        "examples": [
+          ["to lead a crowd", "вести (возглавлять) толпу"],
+          ["Our candidate is leading", "Наш кандидат лидирует"]
+        ],
+        "isLearn": false,
+        "id": "w117"
+      },
+      {
+        "word": "create",
+        "translate": "создавать",
+        "examples": [
+          ["to create jobs", "создавать рабочие места"],
+          ["to create things", "создавать вещи"]
+        ],
+        "isLearn": false,
+        "id": "w118"
+      },
+      {
+        "word": "serve",
+        "translate": "служить",
+        "examples": [
+          ["He served his country", "Он служил своей стране"],
+          ["He served in (with) the 5th battalion", "Он служил в пятом батальоне"]
+        ],
+        "isLearn": false,
+        "id": "w119"
+      },
+      {
+        "word": "build (built, built)",
+        "translate": "строить",
+        "examples": [
+          ["to build towers", "строить башни"],
+          ["to build plans", "строить планы"]
+        ],
+        "isLearn": false,
+        "id": "w120"
+      },
+      {
+        "word": "develop",
+        "translate": "развивать (разрабатывать)",
+        "examples": [
+          ["I develop software", "Я разрабатываю компьютерные программы"],
+          ["Develop your talent", "Развивай свой талант"]
+        ],
+        "isLearn": false,
+        "id": "w121"
+      },
+      {
+        "word": "base",
+        "translate": "базировать, размещать",
+        "examples": [
+          ["The troops were based in France", "Войска были размещены во Франции"],
+          ["Your conclusion is based on nothing", "Ваш вывод ни на чем  не основан"]
+        ],
+        "isLearn": false,
+        "id": "w122"
+      },
+      {
+        "word": "realize",
+        "translate": "реализовать, осознавать",
+        "examples": [
+          ["I realized my goal", "Я осуществил свою цель"],
+          [
+            "I suddenly realized that I lost my phone",
+            "Внезапно я понял (осознал), что потерял свой телефон"
+          ]
+        ],
+        "isLearn": false,
+        "id": "w123"
+      },
+      {
+        "word": "save",
+        "translate": "сохранять, спасать, делать сбережения",
+        "examples": [
+          ["You saved my life", "Вы спасли мою жизнь"],
+          ["to save money", "беречь (экономить) деньги"]
+        ],
+        "isLearn": false,
+        "id": "w124"
+      },
+      {
+        "word": "fail",
+        "translate": "терпеть неудачу",
+        "examples": [
+          ["to fail exams", "не сдавать экзамены"],
+          ["I tried to win but failed", "Они пытались выиграть, но у них не получилось"]
+        ],
+        "isLearn": false,
+        "id": "w125"
+      },
+      {
+        "word": "check",
+        "translate": "проверять",
+        "examples": [
+          ["Check your gear", "Проверьте ваше снаряжение"],
+          ["to check facts", "проверять факты"]
+        ],
+        "isLearn": false,
+        "id": "w126"
+      },
+      {
+        "word": "design",
+        "translate": "разрабатывать",
+        "examples": [
+          ["to design an application", "разрабатывать приложение (программу)"],
+          ["to design a building", "проектировать здание"]
+        ],
+        "isLearn": false,
+        "id": "w127"
+      },
+      {
+        "word": "claim",
+        "translate": "предъявлять претензии, заявлять о правах, утверждать",
+        "examples": [
+          ["to claim the inheritance", "заявить права на наследство"],
+          ["He claimed that he had been theft", "Он заявил, что его обокрали"]
+        ],
+        "isLearn": false,
+        "id": "w128"
+      },
+      {
+        "word": "establish",
+        "translate": "устанавливать",
+        "examples": [
+          ["to establish contact", "устанавливать контакт"],
+          ["to establish the facts", "устанавливать (выяснять) факты"],
+          ["We have already established that", "Это мы уже выяснили"]
+        ],
+        "isLearn": false,
+        "id": "w129"
+      },
+      {
+        "word": "maintain",
+        "translate": "поддерживать",
+        "examples": [
+          ["to maintain order", "поддерживать порядок"],
+          ["to maintain roads", "обслуживать дороги (поддерживать в порядке)"]
+        ],
+        "isLearn": false,
+        "id": "w130"
+      },
+      {
+        "word": "head",
+        "translate": "руководить (возглавлять)",
+        "examples": [["to head a company", "руководить компанией"]],
+        "isLearn": false,
+        "id": "w131"
+      },
+      {
+        "word": "control",
+        "translate": "контролировать",
+        "examples": [
+          ["You do not fully control your actions", "Ты не полностью контролируешь свои дейстия"],
+          ["to control the wind", "управлять ветром"]
+        ],
+        "isLearn": false,
+        "id": "w132"
+      },
+      {
+        "word": "apply",
+        "translate": "подавать заявление, применять что-то",
+        "examples": [
+          ["to apply for the passport", "подавать заявление на паспорт"],
+          ["to apply a rule", "применять правило"]
+        ],
+        "isLearn": false,
+        "id": "w133"
+      },
+      {
+        "word": "manage",
+        "translate": "управлять",
+        "examples": [["to manage staff", "управлять персоналом"]],
+        "isLearn": false,
+        "id": "w134"
+      },
+      {
+        "word": "perform",
+        "translate": "выполнять",
+        "examples": [
+          ["to perform a task", "выполнять задачу"],
+          ["to perform music", "исполнять музыку"]
+        ],
+        "isLearn": false,
+        "id": "w135"
+      },
+      {
+        "word": "improve",
+        "translate": "улучшать",
+        "examples": [
+          [
+            "I want to improve my writing skill",
+            "Я хочу научиться лучше писать (улучшить навык письма)"
+          ],
+          ["to improve in heath", "поправить здоровье"]
+        ],
+        "isLearn": false,
+        "id": "w136"
+      },
+      {
+        "word": "sign",
+        "translate": "подписывать",
+        "examples": [
+          ["Do not sign anything", "Ничего не подписывай"],
+          ["Sign it, please", "Подпишите, пожалуйста (поставьте подпись)"]
+        ],
+        "isLearn": false,
+        "id": "w137"
+      },
+      {
+        "word": "test",
+        "translate": "проверять (тестировать)",
+        "examples": [
+          ["She was testing my English", "Она проверяла мой английский"],
+          ["I test cars", "Я тестирую автомобили"]
+        ],
+        "isLearn": false,
+        "id": "w138"
+      },
+      {
+        "word": "prevent",
+        "translate": "предотвращать",
+        "examples": [
+          ["to prevent casualties", "предотвращать жертвы"],
+          ["You can prevent it", "Ты можешь это предотвратить"]
+        ],
+        "isLearn": false,
+        "id": "w139"
+      },
+      {
+        "word": "publish",
+        "translate": "публиковать",
+        "examples": [
+          [
+            "The interview was published in The New York Times",
+            "Интеврью было опубликовано в «Нью-Йорк Таймс»"
+          ],
+          ["to publish short stories", "публиковать рассказы"]
+        ],
+        "isLearn": false,
+        "id": "w140"
+      },
+      {
+        "word": "achieve",
+        "translate": "достигать (добиваться чего-то)",
+        "examples": [["to achieve the goal", "достигать цели"]],
+        "isLearn": false,
+        "id": "w141"
+      },
+      {
+        "word": "conduct",
+        "translate": "проводить",
+        "examples": [
+          ["to conduct an investigation", "проводить расследование"],
+          ["to conduct electricity", "проводить электричество"]
+        ],
+        "isLearn": false,
+        "id": "w142"
+      },
+      {
+        "word": "attend",
+        "translate": "участвовать, посещать",
+        "examples": [
+          ["to attend a meeting", "участвовать в собрании (посещать)"],
+          ["to attend school", "посещать школу"]
+        ],
+        "isLearn": false,
+        "id": "w143"
+      },
+      {
+        "word": "complete",
+        "translate": "выполнять",
+        "examples": [
+          ["to complete a task", "выполнить задачу"],
+          ["to complete a contract", "выполнить контракт"]
+        ],
+        "isLearn": false,
+        "id": "w144"
+      },
+      {
+        "word": "handle (Handle with care)",
+        "translate": "обращаться (работать с чем-либо, обычн. вручную)",
+        "examples": [
+          ["to handle a needle", "работать иглой"],
+          ["to handle with care", "обращаться бережно"]
+        ],
+        "isLearn": false,
+        "id": "w145"
+      },
+      {
+        "word": "handle (I can handle it)",
+        "translate": "справляться (напр. с проблемой)",
+        "examples": [
+          ["to handle a problem", "справляться с проблемой"],
+          ["I can handle it", "Я справлюсь с этим"]
+        ],
+        "isLearn": false,
+        "id": "w146"
+      },
+      {
+        "word": "deliver",
+        "translate": "доставлять",
+        "examples": [
+          ["to deliver mail", "доставлять почту"],
+          ["Your parcel has been delivered", "Ваша посылка доставлена"]
+        ],
+        "isLearn": false,
+        "id": "w147"
+      },
+      {
+        "word": "operate",
+        "translate": "управлять (обычно механизмом, машиной, программой)",
+        "examples": [["to operate a machine", "управлять станком"]],
+        "isLearn": false,
+        "id": "w148"
+      },
+      {
+        "word": "order",
+        "translate": "приказывать, заказывать",
+        "examples": [
+          ["I have ordered them to stop", "Я приказал им остановиться"],
+          ["I ordered the book online", "Я заказал книгу через интернет"]
+        ],
+        "isLearn": false,
+        "id": "w149"
+      },
+      {
+        "word": "measure",
+        "translate": "измерять",
+        "examples": [["to measure the distance", "измерять расстояние"]],
+        "isLearn": false,
+        "id": "w150"
+      },
+      {
+        "word": "engage",
+        "translate": "входить в контакт, заниматься",
+        "examples": [
+          ["to be engaged in activity", "быть задействованным в деятельности"],
+          [
+            "The parts of the motor are engaging with each other",
+            "Детали мотора взаимодействуют друг с другом"
+          ]
+        ],
+        "isLearn": false,
+        "id": "w151"
+      },
+      {
+        "word": "hire",
+        "translate": "нанимать на работу",
+        "examples": [
+          ["I hired them to paint my fence", "Я нанял их, чтобы они покрасили мой забор"],
+          ["I got hired!", "Меня взяли на работу!"]
+        ],
+        "isLearn": false,
+        "id": "w152"
+      },
+      {
+        "word": "train",
+        "translate": "обучать",
+        "examples": [
+          ["The manager is training his staff", "Менеджер обучает сотрудников"],
+          ["to train a dog", "дрессировать собаку"]
+        ],
+        "isLearn": false,
+        "id": "w153"
+      },
+      {
+        "word": "paint",
+        "translate": "красить",
+        "examples": [
+          ["to paint a wall", "красить стену"],
+          [
+            "My son has painted a portrait of his sister",
+            "Мой сын нарисовал (красками) портрет своей сестры"
+          ]
+        ],
+        "isLearn": false,
+        "id": "w154"
+      },
+      {
+        "word": "direct",
+        "translate": "руководить (управлять), направлять",
+        "examples": [
+          ["to direct something", "руководить чем-то"],
+          ["The arrow was directed to the North", "Стрелка была направлена на Север"]
+        ],
+        "isLearn": false,
+        "id": "w155"
+      },
+      {
+        "word": "solve",
+        "translate": "решать (проблему, задачу)",
+        "examples": [
+          ["to solve a problem", "решать задачу (матем.)"],
+          ["to solve a puzzle", "решать головоломку"]
+        ],
+        "isLearn": false,
+        "id": "w156"
+      },
+      {
+        "word": "file",
+        "translate": "вносить в записи",
+        "examples": [["to file a document", "подшить документ (внести в дело, архив)"]],
+        "isLearn": false,
+        "id": "w157"
+      },
+      {
+        "word": "employ",
+        "translate": "принимать на работу",
+        "examples": [
+          ["to employ an assistant", "принять на работу помощника"],
+          [
+            "to be employed by somebody",
+            "быть принятым на работу кем-то, состоять у кого-то на службе"
+          ]
+        ],
+        "isLearn": false,
+        "id": "w158"
+      },
+      {
+        "word": "make (made, made)",
+        "translate": "делать, заставлять",
+        "examples": [
+          ["to make breakfast", "готовить завтрак"],
+          ["to make people laugh", "заставлять людей смеяться"]
+        ],
+        "isLearn": false,
+        "id": "w159"
+      },
+      {
+        "word": "try",
+        "translate": "пробовать, пытаться",
+        "examples": [
+          ["Let’s try again", "Давайте попробуем еще раз"],
+          ["to try hard", "пытаться изо всех сил"]
+        ],
+        "isLearn": false,
+        "id": "w160"
+      },
+      {
+        "word": "happen",
+        "translate": "случаться",
+        "examples": [
+          ["What happened to you?", "Что с тобой случилось?"],
+          ["Things happen!", "Бывает! (букв.: «вещи случаются»)"]
+        ],
+        "isLearn": false,
+        "id": "w161"
+      },
+      {
+        "word": "set (set, set)",
+        "translate": "устанавливать",
+        "examples": [
+          ["to set the alarm clock", "ставить будильник"],
+          ["to set the ladder", "устанавливать лестницу"]
+        ],
+        "isLearn": false,
+        "id": "w162"
+      },
+      {
+        "word": "seek (sought, sought)",
+        "translate": "искать",
+        "examples": [["to seek wisdom", "искать мудрость"]],
+        "isLearn": false,
+        "id": "w163"
+      },
+      {
+        "word": "fill",
+        "translate": "заполнять",
+        "examples": [
+          ["to fill a vessel", "наполнять сосуд"],
+          ["Fill in the papers", "Заполните бумаги"]
+        ],
+        "isLearn": false,
+        "id": "w164"
+      },
+      {
+        "word": "pass",
+        "translate": "проходить, передавать",
+        "examples": [
+          ["Pass me the book, please", "Передайте мне книгу, пожалуйста"],
+          ["to pass unnoticed", "проходить незамеченным"]
+        ],
+        "isLearn": false,
+        "id": "w165"
+      },
+      {
+        "word": "attempt",
+        "translate": "пытаться",
+        "examples": [
+          ["She attempted a smile", "Она попыталась улыбнуться"],
+          ["She attempted using her password", "Она попыталась использовать свой пароль"]
+        ],
+        "isLearn": false,
+        "id": "w166"
+      },
+      {
+        "word": "connect",
+        "translate": "подключать (соединять)",
+        "examples": [
+          ["to connect wires", "соединять провода"],
+          ["How are those two facts connected?", "Как связаны эти два факта?"]
+        ],
+        "isLearn": false,
+        "id": "w167"
+      },
+      {
+        "word": "record",
+        "translate": "записывать",
+        "examples": [
+          ["to record a song", "записывать песню (на носитель)"],
+          ["The camera doesn’t record", "Камера не записывает"]
+        ],
+        "isLearn": false,
+        "id": "w168"
+      },
+      {
+        "word": "locate",
+        "translate": "обнаружить (выяснить местоположение)",
+        "examples": [["The robbers have been located", "Местонахождение грабителей установлено"]],
+        "isLearn": false,
+        "id": "w169"
+      },
+      {
+        "word": "search",
+        "translate": "искать (search for), обыскивать",
+        "examples": [
+          ["to search for the evidences", "искать улики"],
+          ["to search the car", "обыскивать машину"]
+        ],
+        "isLearn": false,
+        "id": "w170"
+      },
+      {
+        "word": "select",
+        "translate": "выбирать, избирать",
+        "examples": [["You have been selected for the trial", "Вы были отобраны для испытания"]],
+        "isLearn": false,
+        "id": "w171"
+      },
+      {
+        "word": "launch",
+        "translate": "запускать",
+        "examples": [
+          ["to launch a rocket", "запускать ракету"],
+          ["to launch a campaign", "запускать кампанию"]
+        ],
+        "isLearn": false,
+        "id": "w172"
+      },
+      {
+        "word": "adjust",
+        "translate": "настраивать",
+        "examples": [
+          ["Can you adjust my TV?", "Вы можете настроить мой телевизор?"],
+          ["Adjust your watch to the local time", "Переведите ваши часы на местное время"]
+        ],
+        "isLearn": false,
+        "id": "w173"
+      },
+      {
+        "word": "succeed",
+        "translate": "достигать цели (преуспевать в чем-то)",
+        "examples": [
+          ["to succeed in business", "преуспевать в бизнесе"],
+          ["to succeed in life", "преуспевать в жизни"]
+        ],
+        "isLearn": false,
+        "id": "w174"
+      },
+      {
+        "word": "review",
+        "translate": "пересматривать, делать обзор",
+        "examples": [
+          ["I want to review the videogame", "Я хочу сделать обзор видеоигры"],
+          ["to review the rules", "пересматривать правила"]
+        ],
+        "isLearn": false,
+        "id": "w175"
+      },
+      {
+        "word": "arrange (an event)",
+        "translate": "организовывать (мероприятие)",
+        "examples": [
+          ["to arrange an event", "организовать мероприятие"],
+          ["to arrange a meeting", "назначать встречу"]
+        ],
+        "isLearn": false,
+        "id": "w176"
+      },
+      {
+        "word": "benefit",
+        "translate": "получать выгоду",
+        "examples": [["Who benefits from your loss?", "Кто получает выгоду от твоей потери?"]],
+        "isLearn": false,
+        "id": "w177"
+      },
+      {
+        "word": "coach",
+        "translate": "тренировать",
+        "examples": [
+          [
+            "I was coaching the boy for the competition",
+            "Я готовил (тренировал) мальчика к соревнованиям"
+          ]
+        ],
+        "isLearn": false,
+        "id": "w178"
+      },
+      {
+        "word": "exercise",
+        "translate": "упражняться",
+        "examples": [
+          ["Exercise every day and eat clean", "Упражняйтесь каждый день и питайтесь правильно"]
+        ],
+        "isLearn": false,
+        "id": "w179"
+      },
+      {
+        "word": "monitor",
+        "translate": "наблюдать",
+        "examples": [
+          ["to monitor the weather", "следить за погодой"],
+          ["to monitor citizens", "следить за гражданами"]
+        ],
+        "isLearn": false,
+        "id": "w180"
+      },
+      {
+        "word": "supply",
+        "translate": "обеспечивать",
+        "examples": [
+          ["The hospital is supplied with equipment", "Больница обеспечена оборудованием"],
+          ["to supply soldiers with ammo", "обеспечивать солдат боеприпасами"]
+        ],
+        "isLearn": false,
+        "id": "w181"
+      },
+      {
+        "word": "assist",
+        "translate": "помогать",
+        "examples": [
+          ["He did not work alone, he was assisted", "Он работал не один, ему помогали"],
+          [
+            "The nurse assisted the doctor with the patients",
+            "Медсестра помогала доктору с пациентами"
+          ]
+        ],
+        "isLearn": false,
+        "id": "w182"
+      },
+      {
+        "word": "construct",
+        "translate": "строить",
+        "examples": [
+          ["to construct a building", "строить здание"],
+          ["to construct phrases", "строить фразы"]
+        ],
+        "isLearn": false,
+        "id": "w183"
+      },
+      {
+        "word": "schedule",
+        "translate": "составлять график, вносить в график",
+        "examples": [
+          [
+            "The event was scheduled for tomorrow",
+            "Мероприятие было внесено в график на завтра (запланировано за завтра)"
+          ]
+        ],
+        "isLearn": false,
+        "id": "w184"
+      },
+      {
+        "word": "assign",
+        "translate": "назначать, давать задание",
+        "examples": [
+          ["I was assigned to assist you", "Я был назначен помогать вам"],
+          ["the detective was assigned to the case", "детективу было поручено дело"]
+        ],
+        "isLearn": false,
+        "id": "w185"
+      },
+      {
+        "word": "dismiss",
+        "translate": "увольнять",
+        "examples": [["He was dismissed as incompetent", "Он был уволен за некомпетентность"]],
+        "isLearn": false,
+        "id": "w186"
+      },
+      {
+        "word": "practiсe",
+        "translate": "практиковаться",
+        "examples": [
+          ["You need to practice more", "Вам нужно больше тренироваться (практиковаться)"],
+          ["Practice speaking English", "Практикуйтесь в общении на английском"]
+        ],
+        "isLearn": false,
+        "id": "w187"
+      },
+      {
+        "word": "illustrate",
+        "translate": "иллюстрировать",
+        "examples": [["The book is not illustrated", "Книга не проиллюстрирована"]],
+        "isLearn": false,
+        "id": "w188"
+      },
+      {
+        "word": "enhance",
+        "translate": "улучшать, усиливать",
+        "examples": [
+          ["The company enhanced its reputation", "Компания улучшила (укрепила) свою репутацию"],
+          ["The walls were enhanced with iron plates", "Стены были усилены железными плитами"]
+        ],
+        "isLearn": false,
+        "id": "w189"
+      },
+      {
+        "word": "implement",
+        "translate": "выполнять, применять",
+        "examples": [
+          [
+            "It’s a good thought, but it will be a difficult thing to implement",
+            "Это хорошая мысль, но это было трудно выполнить"
+          ],
+          ["How to implement this strategy?", "Как применить эту стратегию?"]
+        ],
+        "isLearn": false,
+        "id": "w190"
+      },
+      {
+        "word": "preserve",
+        "translate": "сохранять (уберегать)",
+        "examples": [["to preserve old houses", "сохранять старые дома"]],
+        "isLearn": false,
+        "id": "w191"
+      },
+      {
+        "word": "guide",
+        "translate": "вести (направлять)",
+        "examples": [
+          ["The stars guided us", "Нас вели (указывали дорогу) звезды"],
+          ["My dog guided me back home", "Моя собака провела меня обратно домой"]
+        ],
+        "isLearn": false,
+        "id": "w192"
+      },
+      {
+        "word": "deserve",
+        "translate": "заслуживать чего-то",
+        "examples": [
+          ["You did not deserve that medal", "Вы не заслужили эту медаль"],
+          ["You get what you deserve", "Ты получаешь то, что заслуживаешь"]
+        ],
+        "isLearn": false,
+        "id": "w193"
+      },
+      {
+        "word": "face (something)",
+        "translate": "встретиться с чем-то (напр. с проблемой)",
+        "examples": [
+          ["The opponents faced each other", "Противники встретились друг с другом"],
+          ["Let’s face it!", "Давайте посмотрим правде в глаза!"]
+        ],
+        "isLearn": false,
+        "id": "w194"
+      },
+      {
+        "word": "cause",
+        "translate": "причинять что-либо",
+        "examples": [
+          ["The weather has caused the car accident", "Погода стала причиной автомобильной аварии"],
+          ["He causes too much trouble", "От него слишком много проблем"]
+        ],
+        "isLearn": false,
+        "id": "w195"
+      }
+    ]
+  },
+  {
+    "id": "05",
+    "definition": "Чувства, мышление, восприятие",
+    "words": [
+      {
+        "word": "teach (taught, taught)",
+        "translate": "учить (обучать)",
+        "examples": [
+          ["Teach me to read and write", "Научите меня читать и писать"],
+          ["He is taught to keep secrets", "Он обучен хранить секреты"]
+        ],
+        "isLearn": false,
+        "id": "w196"
+      },
+      {
+        "word": "can (could)",
+        "translate": "мочь, быть способным",
+        "examples": [
+          ["Can I help you?", "Могу я вам помочь?"],
+          ["I can swim", "Я умею плавать"]
+        ],
+        "isLearn": false,
+        "id": "w197"
+      },
+      {
+        "word": "know (knew, known)",
+        "translate": "знать",
+        "examples": [
+          ["I know the answer", "Я знаю ответ"],
+          ["How do you know Derek?", "Откуда вы знаете Дерека?"]
+        ],
+        "isLearn": false,
+        "id": "w198"
+      },
+      {
+        "word": "think (thought, thought)",
+        "translate": "думать",
+        "examples": [
+          ["I think I know her", "Думаю, я ее знаю"],
+          ["to think about\\of something", "думать о чем-то"]
+        ],
+        "isLearn": false,
+        "id": "w199"
+      },
+      {
+        "word": "see (saw, seen)",
+        "translate": "видеть",
+        "examples": [
+          ["I see the sail!", "Я вижу парус!"],
+          ["Robert has seen a lot", "Роберт многое повидал"]
+        ],
+        "isLearn": false,
+        "id": "w200"
+      },
+      {
+        "word": "want",
+        "translate": "хотеть",
+        "examples": [
+          ["I want to sleep", "Я хочу спать"],
+          ["What do you want?", "Что вы хотите?"]
+        ],
+        "isLearn": false,
+        "id": "w201"
+      },
+      {
+        "word": "look",
+        "translate": "смотреть, выглядеть",
+        "examples": [
+          ["to look at the window", "смотреть в окно"],
+          ["to look beautiful", "красиво выглядеть"]
+        ],
+        "isLearn": false,
+        "id": "w202"
+      },
+      {
+        "word": "need",
+        "translate": "нуждаться",
+        "examples": [
+          ["I need your help", "Мне нужна ваша помощь"],
+          ["Your services are no longer needed", "Ваши услуги больше не нужны"]
+        ],
+        "isLearn": false,
+        "id": "w203"
+      },
+      {
+        "word": "feel (felt, felt)",
+        "translate": "чувствовать",
+        "examples": [
+          ["I can feel you breathing", "Я чувствую, как ты дышишь"],
+          ["I am feeling well", "Я чувствую себя хорошо"]
+        ],
+        "isLearn": false,
+        "id": "w204"
+      },
+      {
+        "word": "mean (meant, meant)",
+        "translate": "значить (иметь в виду)",
+        "examples": [["What do you mean?", "Что ты имеешь в виду?"]],
+        "isLearn": false,
+        "id": "w205"
+      },
+      {
+        "word": "seem",
+        "translate": "казаться",
+        "examples": [
+          ["It seems to me that", "Мне кажется, что"],
+          ["He seems very calm", "Он казался (выглядел) очень спокойным"]
+        ],
+        "isLearn": false,
+        "id": "w206"
+      },
+      {
+        "word": "hear (heard, heard)",
+        "translate": "слышать",
+        "examples": [
+          ["Can you hear me?", "Вы меня слышите?"],
+          ["I heard your voice", "Я слышал ваш голос"]
+        ],
+        "isLearn": false,
+        "id": "w207"
+      },
+      {
+        "word": "like",
+        "translate": "нравиться (любить)",
+        "examples": [
+          ["I like it", "Мне это нравится"],
+          ["Do you like swimming?", "Вам нравится плавать?"]
+        ],
+        "isLearn": false,
+        "id": "w208"
+      },
+      {
+        "word": "believe",
+        "translate": "верить",
+        "examples": [
+          ["I believe you", "Я вам верю"],
+          ["I believe in ghosts", "Я верю в привидений"]
+        ],
+        "isLearn": false,
+        "id": "w209"
+      },
+      {
+        "word": "learn (learnt, learnt)",
+        "translate": "изучать",
+        "examples": [
+          ["I learn foreign languages", "Я учу иностранные языки"],
+          ["What have you learned?", "Чему ты научился?"]
+        ],
+        "isLearn": false,
+        "id": "w210"
+      },
+      {
+        "word": "watch",
+        "translate": "смотреть, сторожить",
+        "examples": [
+          ["The prisoner is being watched", "За пленником следят (сторожат)"],
+          ["I’m watching the TV", "Я смотрю телевизор"]
+        ],
+        "isLearn": false,
+        "id": "w211"
+      },
+      {
+        "word": "read (read, read)",
+        "translate": "читать",
+        "examples": [["I am reading the fairy tale", "Я читаю сказку"]],
+        "isLearn": false,
+        "id": "w212"
+      },
+      {
+        "word": "remember",
+        "translate": "помнить",
+        "examples": [
+          ["Do you remember me?", "Вы меня помните?"],
+          ["I can’t remember the poem", "Я не помню стихотворение"]
+        ],
+        "isLearn": false,
+        "id": "w213"
+      },
+      {
+        "word": "love",
+        "translate": "любить",
+        "examples": [["to love and to be loved", "любить и быть любимым"]],
+        "isLearn": false,
+        "id": "w214"
+      },
+      {
+        "word": "decide",
+        "translate": "решать",
+        "examples": [
+          ["What have you decided?", "Что вы решили?"],
+          ["I decided to try again", "Я решил попробовать еще раз"]
+        ],
+        "isLearn": false,
+        "id": "w215"
+      },
+      {
+        "word": "hope",
+        "translate": "надеяться",
+        "examples": [
+          ["I hope you are doing well", "Я надеюсь, у вас все хорошо"],
+          ["to hope for the best", "надеяться на лучшее"]
+        ],
+        "isLearn": false,
+        "id": "w216"
+      },
+      {
+        "word": "listen",
+        "translate": "слушать",
+        "examples": [["Listen to me carefully", "Слушайте меня внимательно"]],
+        "isLearn": false,
+        "id": "w217"
+      },
+      {
+        "word": "focus",
+        "translate": "сосредоточиваться (на чем-либо)",
+        "examples": [
+          ["You have to focus on the mission", "Ты обязан сосредоточиться на задании"],
+          ["Calm down, focus, try again", "Успокойся, сосредоточься, попытайся еще раз"]
+        ],
+        "isLearn": false,
+        "id": "w218"
+      },
+      {
+        "word": "plan",
+        "translate": "планировать",
+        "examples": [["We did not plan to meet here", "Мы не планировали встретиться здесь"]],
+        "isLearn": false,
+        "id": "w219"
+      },
+      {
+        "word": "note",
+        "translate": "замечать, обращать внимание",
+        "examples": [["Please note that", "Пожалуйста, обратите внимание, что"]],
+        "isLearn": false,
+        "id": "w220"
+      },
+      {
+        "word": "identify",
+        "translate": "идентифицировать",
+        "examples": [["to identify someone", "идентифицировать кого-то (устанавливать личность)"]],
+        "isLearn": false,
+        "id": "w221"
+      },
+      {
+        "word": "explore",
+        "translate": "исследовать",
+        "examples": [["to explore the cave", "исследовать пещеру"]],
+        "isLearn": false,
+        "id": "w222"
+      },
+      {
+        "word": "predict",
+        "translate": "предсказывать",
+        "examples": [
+          ["to predict the result", "предсказывать результат"],
+          ["to predict the future", "предсказывать будущее"]
+        ],
+        "isLearn": false,
+        "id": "w223"
+      },
+      {
+        "word": "acknowledge",
+        "translate": "признавать, подтверждать получение",
+        "examples": [
+          ["He acknowledged his mistakes", "Он признал свои ошибки"],
+          ["to acknowledge a request", "подтверждать получение запроса"]
+        ],
+        "isLearn": false,
+        "id": "w224"
+      },
+      {
+        "word": "fear",
+        "translate": "бояться",
+        "examples": [["I fear to think what will happen", "Мне страшно подумать, что произойдет"]],
+        "isLearn": false,
+        "id": "w225"
+      },
+      {
+        "word": "conclude",
+        "translate": "делать вывод",
+        "examples": [
+          ["It was concluded from your statement", "Этот вывод был сделан из вашего заявления"]
+        ],
+        "isLearn": false,
+        "id": "w226"
+      },
+      {
+        "word": "prefer",
+        "translate": "предпочитать",
+        "examples": [
+          ["What kind of tea do you prefer?", "Какой чай вы предпочитаете?"],
+          ["We prefer to give customers a choice", "Мы предпочитаем давать клиентам выбор"]
+        ],
+        "isLearn": false,
+        "id": "w227"
+      },
+      {
+        "word": "appreciate",
+        "translate": "ценить",
+        "examples": [
+          ["Thank you, I appreciate it", "Спасибо, я ценю это (частая разговорная фраза)"],
+          ["We appreciate your help", "Мы ценим вашу помощь"]
+        ],
+        "isLearn": false,
+        "id": "w228"
+      },
+      {
+        "word": "trust",
+        "translate": "доверять",
+        "examples": [
+          ["Trust me", "Доверься мне"],
+          ["Do not trust that bank with your money", "Не доверяйте этому банку свои деньги"]
+        ],
+        "isLearn": false,
+        "id": "w229"
+      },
+      {
+        "word": "rely on",
+        "translate": "полагаться на",
+        "examples": [
+          ["You shouldn’t rely on Steven", "Не следует полагаться на Стивена"],
+          ["I know I can rely on you", "Я знаю, что могу на тебя положиться"]
+        ],
+        "isLearn": false,
+        "id": "w230"
+      },
+      {
+        "word": "question",
+        "translate": "подвергать сомнению, допрашивать (задавать вопросы)",
+        "examples": [
+          ["He’s been questioned", "Его опросили (допросили)"],
+          ["They questioned his wisdom", "Они подвергли сомнению его мудрость"]
+        ],
+        "isLearn": false,
+        "id": "w231"
+      },
+      {
+        "word": "regard",
+        "translate": "учитывать",
+        "examples": [
+          ["They regarded him as their enemy", "Они считали его своим врагом"],
+          ["They don’t regard anything except his opinion", "Они считаются только с его мнением"]
+        ],
+        "isLearn": false,
+        "id": "w232"
+      },
+      {
+        "word": "suspect",
+        "translate": "подозревать",
+        "examples": [
+          ["You are suspected of robbery", "Вы подозреваетесь в ограблении"],
+          ["I suspect it was your fault", "Я подозреваю, что в этом была ваша вина"]
+        ],
+        "isLearn": false,
+        "id": "w233"
+      },
+      {
+        "word": "suppose",
+        "translate": "предполагать",
+        "examples": [
+          ["I suppose it was your fault", "Я полагаю, что в этом была ваша вина"],
+          ["What do you suppose is the best option?", "Какой, по-твоему, наилучший вариант?"]
+        ],
+        "isLearn": false,
+        "id": "w234"
+      },
+      {
+        "word": "perceive",
+        "translate": "воспринимать",
+        "examples": [
+          ["to perceive visual images", "воспринимать (различать) визуальные образы"],
+          [
+            "They perceive us as an unreliable company",
+            "Они воспринимают нас как ненадежную компанию"
+          ]
+        ],
+        "isLearn": false,
+        "id": "w235"
+      },
+      {
+        "word": "inspire",
+        "translate": "вдохновлять",
+        "examples": [["I was inspired by your words", "Меня вдохновили ваши слова"]],
+        "isLearn": false,
+        "id": "w236"
+      },
+      {
+        "word": "analyze",
+        "translate": "анализировать",
+        "examples": [
+          ["to analyze data", "анализировать данные"],
+          ["to analyze a situation", "анализировать ситуацию"]
+        ],
+        "isLearn": false,
+        "id": "w237"
+      },
+      {
+        "word": "concentrate",
+        "translate": "сосредоточиваться",
+        "examples": [
+          ["The ships are concentrated by the bridge", "Корабли сосредоточились у моста"],
+          ["I’m trying to concentrate on the book", "Я пытаюсь сосредоточиться на книге"]
+        ],
+        "isLearn": false,
+        "id": "w238"
+      },
+      {
+        "word": "smell (smelt, smelt)",
+        "translate": "нюхать, пахнуть",
+        "examples": [
+          ["Smell the flower", "Понюхай цветок"],
+          ["The flowers smell sweet", "Цветы сладко пахнут"]
+        ],
+        "isLearn": false,
+        "id": "w239"
+      },
+      {
+        "word": "glance",
+        "translate": "смотреть (бросать взгляд)",
+        "examples": [["The stranger glanced at me", "Незнакомец взглянул на меня"]],
+        "isLearn": false,
+        "id": "w240"
+      },
+      {
+        "word": "dream (dreamt, dreamt)",
+        "translate": "мечтать (видеть сны)",
+        "examples": [
+          [
+            "People dreamed of going to the moon when they couldn’t even fly",
+            "Люди мечтали отправиться на Луну, когда не могли еще даже летать"
+          ],
+          ["I was dreaming of our home", "Мне снился наш дом"]
+        ],
+        "isLearn": false,
+        "id": "w241"
+      },
+      {
+        "word": "react",
+        "translate": "реагировать",
+        "examples": [
+          ["to react to provocation", "реагировать на провокацию"],
+          ["How did she react to the truth?", "Как она отреагировала на правду?"]
+        ],
+        "isLearn": false,
+        "id": "w242"
+      },
+      {
+        "word": "choose",
+        "translate": "выбирать",
+        "examples": [["Choose your way", "Выберите свой путь"]],
+        "isLearn": false,
+        "id": "w243"
+      },
+      {
+        "word": "expect",
+        "translate": "ожидать",
+        "examples": [
+          ["I’m expecting a visitor", "Я ожидаю гостя"],
+          ["Don’t expect miracles", "Не ждите чудес"]
+        ],
+        "isLearn": false,
+        "id": "w244"
+      },
+      {
+        "word": "miss",
+        "translate": "упускать, скучать",
+        "examples": [
+          ["I miss you", "Я скучаю по тебе"],
+          ["Don’t miss any important details", "Не упустите важные детали"]
+        ],
+        "isLearn": false,
+        "id": "w245"
+      },
+      {
+        "word": "realize",
+        "translate": "реализовать, осознавать",
+        "examples": [
+          ["to realize plans", "реализовывать планы"],
+          ["He realized that he is alone now", "Он осознал, что теперь он одинок"]
+        ],
+        "isLearn": false,
+        "id": "w246"
+      },
+      {
+        "word": "determine",
+        "translate": "определять",
+        "examples": [["to determine the cause of the accident", "определять причину аварии"]],
+        "isLearn": false,
+        "id": "w247"
+      },
+      {
+        "word": "recognize",
+        "translate": "узнавать",
+        "examples": [
+          ["I can’t recognize your voice", "Я не узнаю ваш голос"],
+          ["I recognized that person", "Я узнал этого человека"]
+        ],
+        "isLearn": false,
+        "id": "w248"
+      },
+      {
+        "word": "compare",
+        "translate": "сравнивать",
+        "examples": [
+          ["Compare two songs", "Сравните две песни"],
+          [
+            "It is hard to compare ice-cream with milk shake",
+            "Трудно сравнивать мороженое с молочным коктейлем"
+          ]
+        ],
+        "isLearn": false,
+        "id": "w249"
+      },
+      {
+        "word": "miss (someone)",
+        "translate": "скучать (по кому-то\\чему-то)",
+        "examples": [["I miss you", "Я скучаю по тебе \\ Мне тебя не хватает"]],
+        "isLearn": false,
+        "id": "w250"
+      },
+      {
+        "word": "study",
+        "translate": "изучать (учиться)",
+        "examples": [
+          ["to study abroad", "учиться за границей"],
+          ["to study English", "учить английский язык"]
+        ],
+        "isLearn": false,
+        "id": "w251"
+      },
+      {
+        "word": "forget (forgot, forgotten)",
+        "translate": "забывать",
+        "examples": [
+          ["Sorry, I forgot to lock the door", "Извините, я забыл запереть дверь"],
+          ["Nothing is forgotten", "Ничто не забыто"]
+        ],
+        "isLearn": false,
+        "id": "w252"
+      },
+      {
+        "word": "imagine",
+        "translate": "воображать",
+        "examples": [
+          ["Can you imagine it?", "Это можешь себя это представить?"],
+          ["Imagine how strong he is", "Представь себе, как он силен"]
+        ],
+        "isLearn": false,
+        "id": "w253"
+      },
+      {
+        "word": "discover",
+        "translate": "совершать открытие",
+        "examples": [
+          ["Captain Cook discovered the island in 1775", "Капитан Кук открыл остров в 1775 году"],
+          ["to discover oil", "находить нефть"]
+        ],
+        "isLearn": false,
+        "id": "w254"
+      },
+      {
+        "word": "worry",
+        "translate": "беспокоиться",
+        "examples": [
+          ["Don’t worry, be happy", "Не беспокойся, будь счастлив"],
+          ["You look worried", "Ты выглядишь взволнованным"]
+        ],
+        "isLearn": false,
+        "id": "w255"
+      },
+      {
+        "word": "wait",
+        "translate": "ждать",
+        "examples": [
+          ["Can you wait for a while?", "Можете немного подождать?"],
+          ["They are waiting for us", "Они ждут нас"]
+        ],
+        "isLearn": false,
+        "id": "w256"
+      },
+      {
+        "word": "experience",
+        "translate": "переживать (испытывать что-то на себе)",
+        "examples": [
+          ["I was experiencing strange feelings", "Я испытывал странные ощущения"],
+          ["I have never experienced such thing", "Со мной такого никогда не было"]
+        ],
+        "isLearn": false,
+        "id": "w257"
+      },
+      {
+        "word": "tend",
+        "translate": "иметь склонность (к чему-то)",
+        "examples": [
+          ["Some people tend to hide their emotions", "Некоторые люди склонны скрывать свои эмоции"]
+        ],
+        "isLearn": false,
+        "id": "w258"
+      },
+      {
+        "word": "notice",
+        "translate": "замечать",
+        "examples": [
+          [
+            "I didn’t notice that my door was not locked",
+            "Я не заметил, что моя дверь не была заперта"
+          ],
+          ["Have you noticed anything unusual?", "Вы заметили что-нибудь необычное?"]
+        ],
+        "isLearn": false,
+        "id": "w259"
+      },
+      {
+        "word": "wish",
+        "translate": "желать",
+        "examples": [
+          ["I wish you to choose wisely", "Я хочу, чтобы вы сделали обдуманный выбор"],
+          ["If you wish to stay, you can stay", "Если вы желаете остаться, оставайтесь"]
+        ],
+        "isLearn": false,
+        "id": "w260"
+      },
+      {
+        "word": "figure out",
+        "translate": "выяснять (находить решение)",
+        "examples": [
+          ["How did you figure it out?", "Как вы это узнали?"],
+          ["I can’t figure out what she wants", "Я не могу понять, чего она хочет"]
+        ],
+        "isLearn": false,
+        "id": "w261"
+      },
+      {
+        "word": "suffer",
+        "translate": "страдать",
+        "examples": [
+          ["They have suffered enough", "Они достаточно настрадались"],
+          ["to suffer from headache", "страдать от головной боли"]
+        ],
+        "isLearn": false,
+        "id": "w262"
+      },
+      {
+        "word": "recall",
+        "translate": "вспоминать",
+        "examples": [["to recall vividly", "вспоминать что-то ярко, живо"]],
+        "isLearn": false,
+        "id": "w263"
+      },
+      {
+        "word": "stare",
+        "translate": "пристально смотреть, пялиться",
+        "examples": [
+          ["Do not stare at people", "Не пялься на людей"],
+          ["What are you staring at?", "Чего уставился?"]
+        ],
+        "isLearn": false,
+        "id": "w264"
+      },
+      {
+        "word": "examine",
+        "translate": "проверять (изучать)",
+        "examples": [
+          ["He examined the evidences carefully", "Он тщательно проверил улики"],
+          ["He examined the wall for cracks", "Он проверил стены на наличие трещин"]
+        ],
+        "isLearn": false,
+        "id": "w265"
+      },
+      {
+        "word": "define",
+        "translate": "определять",
+        "examples": [
+          [
+            "You can define “tall” as “not short”",
+            "Слово «высокий» можно определить как «не низкий»"
+          ]
+        ],
+        "isLearn": false,
+        "id": "w266"
+      },
+      {
+        "word": "observe",
+        "translate": "наблюдать",
+        "examples": [["to observe the stars", "наблюдать звезды"]],
+        "isLearn": false,
+        "id": "w267"
+      },
+      {
+        "word": "count",
+        "translate": "считать",
+        "examples": [
+          ["to count to ten", "считать до десяти"],
+          ["to count the bricks", "считать кирпичи"]
+        ],
+        "isLearn": false,
+        "id": "w268"
+      },
+      {
+        "word": "associate",
+        "translate": "ассоциировать (с чем-то)",
+        "examples": [
+          ["What do you associate that image with?", "С чем у вас ассоциируется этот образ?"],
+          ["I associate ice-cream with my school", "У меня мороженое ассоциируется со школой"]
+        ],
+        "isLearn": false,
+        "id": "w269"
+      },
+      {
+        "word": "view",
+        "translate": "смотреть",
+        "examples": [["The nurse viewed his arm", "Медсестра осмотрела его руку"]],
+        "isLearn": false,
+        "id": "w270"
+      },
+      {
+        "word": "remind",
+        "translate": "напоминать",
+        "examples": [
+          ["Remind me to call Susan", "Напомни мне позвонить Сьюзан"],
+          ["You remind me my classmate", "Ты напоминаешь мне моего одноклассника"]
+        ],
+        "isLearn": false,
+        "id": "w271"
+      },
+      {
+        "word": "hate",
+        "translate": "ненавидеть",
+        "examples": [["I hate doughnuts", "Я ненавижу пончики"]],
+        "isLearn": false,
+        "id": "w272"
+      },
+      {
+        "word": "intend",
+        "translate": "намереваться",
+        "examples": [
+          ["What do you intend to do?", "Что вы намереваетесь делать?"],
+          ["We did not intend to bother you", "Мы не хотели вас побеспокоить"]
+        ],
+        "isLearn": false,
+        "id": "w273"
+      }
+    ]
+  },
+  {
+    "id": "06",
+    "definition": "Общение",
+    "words": [
+      {
+        "word": "say (said, said)",
+        "translate": "сказать",
+        "examples": [
+          ["You said I could come in", "Вы сказали, что я могу войти"],
+          ["What did he say?", "Что он сказал?"]
+        ],
+        "isLearn": false,
+        "id": "w274"
+      },
+      {
+        "word": "tell (told, told)",
+        "translate": "говорить",
+        "examples": [
+          ["You told me to come in", "Вы сказали мне войти"],
+          ["What did he tell you?", "Что он тебе сказал?"]
+        ],
+        "isLearn": false,
+        "id": "w275"
+      },
+      {
+        "word": "call",
+        "translate": "звать, звонить",
+        "examples": [
+          ["Don’t call me, just text", "Не звони мне, просто отправь сообщение"],
+          ["Did you call me?", "Вы меня звали?"]
+        ],
+        "isLearn": false,
+        "id": "w276"
+      },
+      {
+        "word": "ask",
+        "translate": "спрашивать, просить",
+        "examples": [
+          ["I am going to ask you one question", "Я собираюсь задать вам один вопрос"],
+          ["Ask Jane to give you her key", "Попроси Джейн, чтобы она дала тебе свой ключ"]
+        ],
+        "isLearn": false,
+        "id": "w277"
+      },
+      {
+        "word": "talk",
+        "translate": "разговаривать",
+        "examples": [
+          ["I am not talking to you", "Я не с вами говорю"],
+          ["What are you talking about?", "О чем ты говоришь?"]
+        ],
+        "isLearn": false,
+        "id": "w278"
+      },
+      {
+        "word": "meet (met, met)",
+        "translate": "знакомиться (встречать)",
+        "examples": [
+          ["We met at work", "Мы познакомились на работе"],
+          ["I will meet you in the airport", "Я встречу тебя в аэропорту"]
+        ],
+        "isLearn": false,
+        "id": "w279"
+      },
+      {
+        "word": "understand (understood, understood)",
+        "translate": "понимать",
+        "examples": [
+          ["I don’t understand the rules of this game", "Я не понимаю правила этой игры"],
+          ["Do you understand me?", "Вы меня понимаете?"]
+        ],
+        "isLearn": false,
+        "id": "w280"
+      },
+      {
+        "word": "speak (spoke, spoken)",
+        "translate": "говорить",
+        "examples": [
+          ["I need to speak to you", "Мне нужно с вами поговорить"],
+          ["He spoke about environmental protection", "Он говорил о защите окружающей среды"]
+        ],
+        "isLearn": false,
+        "id": "w281"
+      },
+      {
+        "word": "allow",
+        "translate": "позволять",
+        "examples": [
+          [
+            "They didn’t allow the child to watch TV all day",
+            "Они не разрешали ребенку смотреть телевизор весь день"
+          ],
+          [
+            "He was not allowed to use our equipment",
+            "Ему нельзя было (не было разрешено) пользоваться нашим оборудованием"
+          ]
+        ],
+        "isLearn": false,
+        "id": "w282"
+      },
+      {
+        "word": "offer",
+        "translate": "предлагать",
+        "examples": [
+          ["I’d like to offer you a deal", "Я хочу предложить вам сделку"],
+          ["They offered me the job", "Они предложили мне работу"]
+        ],
+        "isLearn": false,
+        "id": "w283"
+      },
+      {
+        "word": "consider",
+        "translate": "рассматривать, считать",
+        "examples": [
+          [
+            "We consider this to be a very serious issue",
+            "Мы рассматриваем это как очень серьезный вопрос (проблему)"
+          ]
+        ],
+        "isLearn": false,
+        "id": "w284"
+      },
+      {
+        "word": "suggest",
+        "translate": "предлагать",
+        "examples": [
+          [
+            "Can you suggest a good restaurant?",
+            "Вы не могли бы предложить какой-нибудь хороший ресторан?"
+          ],
+          ["He suggested taking a cab", "Он предложил взять такси"]
+        ],
+        "isLearn": false,
+        "id": "w285"
+      },
+      {
+        "word": "require",
+        "translate": "требовать, нуждаться",
+        "examples": [
+          [
+            "The rules require that you choose only one option",
+            "Правила требуют, чтобы вы выбрали только один вариант"
+          ],
+          [
+            "Please call this number if you require any further information",
+            "Пожалуйста, позвоните на этот номер, если вам требуется дополнительная информация"
+          ]
+        ],
+        "isLearn": false,
+        "id": "w286"
+      },
+      {
+        "word": "report",
+        "translate": "докладывать",
+        "examples": [
+          [
+            "We called the police to report the theft",
+            "Мы позвонили в полицию, чтобы сообщить о краже"
+          ],
+          [
+            "The police officer reported seeing a suspicious person",
+            "Полицейский доложил о том, что видел подозрительное лицо"
+          ]
+        ],
+        "isLearn": false,
+        "id": "w287"
+      },
+      {
+        "word": "explain",
+        "translate": "объяснять",
+        "examples": [
+          ["Can you explain the proverb to me?", "Не могли бы вы объяснить мне эту поговорку?"],
+          ["Don’t be mad, I’ll explain everything", "Не злись, я все объясню"]
+        ],
+        "isLearn": false,
+        "id": "w288"
+      },
+      {
+        "word": "thank",
+        "translate": "благодарить",
+        "examples": [
+          ["Thank you for your service", "Спасибо за службу"],
+          [
+            "You should thank your father, not me",
+            "Тебе следует благодарить своего отца, а не меня"
+          ]
+        ],
+        "isLearn": false,
+        "id": "w289"
+      },
+      {
+        "word": "agree",
+        "translate": "соглашаться",
+        "examples": [
+          ["Do you agree with me on this issue?", "Вы согласны со мной по этому вопросу?"],
+          [
+            "I agree that we should change our strategy",
+            "Я согласен с тем, что нам следует сменить стратегию"
+          ]
+        ],
+        "isLearn": false,
+        "id": "w290"
+      },
+      {
+        "word": "describe",
+        "translate": "описывать",
+        "examples": [["Describe that man", "Опишите этого человека"]],
+        "isLearn": false,
+        "id": "w291"
+      },
+      {
+        "word": "represent",
+        "translate": "представлять (напр. компанию)",
+        "examples": [
+          ["I represent my company at the meeting", "На собрании я представляю свою компанию"]
+        ],
+        "isLearn": false,
+        "id": "w292"
+      },
+      {
+        "word": "lie",
+        "translate": "лгать",
+        "examples": [
+          ["Don’t you dare lie to me!", "Не смей мне лгать!"],
+          ["You lied about your education", "Вы солгали о своем образовании"]
+        ],
+        "isLearn": false,
+        "id": "w293"
+      },
+      {
+        "word": "tell the truth (told, told) ",
+        "examples": [["I swear to tell the truth", "Я клянусь говорить правду"]],
+        "translate": "говорить правду",
+        "isLearn": false,
+        "id": "w294"
+      },
+      {
+        "word": "mean (meant, meant)",
+        "translate": "иметь в виду",
+        "examples": [
+          ["What do you mean?", "Что вы имеете в виду?"],
+          ["You know what I mean", "Вы знаете, что я имею в виду (Ну, вы меня поняли)"]
+        ],
+        "isLearn": false,
+        "id": "w295"
+      },
+      {
+        "word": "argue",
+        "translate": "спорить",
+        "examples": [
+          ["My children are always arguing", "Мои дети всегда спорят"],
+          [
+            "He was arguing with his boss about which car to rent",
+            "Он спорил со своим начальником о том, какую машину взять в аренду"
+          ]
+        ],
+        "isLearn": false,
+        "id": "w296"
+      },
+      {
+        "word": "wonder",
+        "translate": "интересоваться",
+        "examples": [
+          ["I was wondering what you were doing", "Мне было интересно, что ты делал"],
+          ["I wonder if they have peanut butter", "Интересно, у них есть арахисовое масло?"]
+        ],
+        "isLearn": false,
+        "id": "w297"
+      },
+      {
+        "word": "name",
+        "translate": "называть, именовать",
+        "examples": [
+          [
+            "Name the first three planets of the Solar System",
+            "Назовите первые три планеты Солнечной системы"
+          ],
+          ["She named her dog Barry", "Она назвала свою собаку Барри"]
+        ],
+        "isLearn": false,
+        "id": "w298"
+      },
+      {
+        "word": "answer",
+        "translate": "отвечать",
+        "examples": [
+          ["I can’t answer this question", "Я не могу ответить на этот вопрос"],
+          ["I called you but you did not answer", "Я звонил вам, но вы не ответили"]
+        ],
+        "isLearn": false,
+        "id": "w299"
+      },
+      {
+        "word": "state",
+        "translate": "делать заявление",
+        "examples": [
+          [
+            "He stated that he had never seen the suspect",
+            "Он заявил, что никогда не видел подозреваемого"
+          ]
+        ],
+        "isLearn": false,
+        "id": "w300"
+      },
+      {
+        "word": "discuss",
+        "translate": "обсуждать",
+        "examples": [
+          ["The teacher discussed the movie with us", "Учитель обсудил с нами фильм"],
+          ["Let’s discuss this reasonably", "Давайте обсудим это разумно"]
+        ],
+        "isLearn": false,
+        "id": "w301"
+      },
+      {
+        "word": "laugh",
+        "translate": "смеяться",
+        "examples": [
+          ["His jokes always make me laugh", "Его шутки всегда заставляют меня смеяться"],
+          ["Don’t laugh at me", "Не смейтесь надо мной"]
+        ],
+        "isLearn": false,
+        "id": "w302"
+      },
+      {
+        "word": "guess",
+        "translate": "догадываться",
+        "examples": [["How did you guess?", "Как вы догадались?"]],
+        "isLearn": false,
+        "id": "w303"
+      },
+      {
+        "word": "prove",
+        "translate": "доказывать",
+        "examples": [["I guess, you are right", "Я думаю, вы правы."]],
+        "isLearn": false,
+        "id": "w304"
+      },
+      {
+        "word": "sound",
+        "translate": "звучать",
+        "examples": [
+          ["He was proved guilty(innocent)", "Его виновность(невиновность) была доказана"],
+          [
+            "They knew the truth, but they couldn’t prove it",
+            "Они знали правду, но не могли доказать"
+          ]
+        ],
+        "isLearn": false,
+        "id": "w305"
+      },
+      {
+        "word": "respond",
+        "translate": "отвечать",
+        "examples": [
+          [
+            "I know it sounds silly, but I want to ride this carousel",
+            "Я знаю, это звучит глупо, но я хочу прокатиться на этой карусели"
+          ],
+          ["Your car sounds like a volcano", "Твоя машина звучит как вулкан"]
+        ],
+        "isLearn": false,
+        "id": "w306"
+      },
+      {
+        "word": "reveal ",
+        "examples": [
+          ["He did not respond to my question", "Он не ответил на мой вопрос"],
+          [
+            "How did she respond to the news?",
+            "Как она отреагировала на новость? (что ответила, узнав новость)"
+          ]
+        ],
+        "translate": " выявлять, раскрывать",
+        "isLearn": false,
+        "id": "w307"
+      },
+      {
+        "word": "treat",
+        "translate": "лечить (обращаться с кем-либо)",
+        "examples": [
+          ["to reveal the truth", "раскрывать правду"],
+          ["to reveal secrets", "раскрывать тайны"]
+        ],
+        "isLearn": false,
+        "id": "w308"
+      },
+      {
+        "word": "affect",
+        "translate": "влиять (воздействовать)",
+        "examples": [
+          ["He is being treated for a rare disease", "Он лечится от редкого заболевания"],
+          ["My neighbor treats his dog badly", "Мой сосед плохо обращается со своей собакой"]
+        ],
+        "isLearn": false,
+        "id": "w309"
+      },
+      {
+        "word": "mention",
+        "translate": "упоминать",
+        "examples": [
+          [
+            "The house was badly affected by the weather",
+            "Погода произвела плохое воздействие на дом"
+          ],
+          ["I was deeply affected by the movie", "Фильм сильно на меня повлиял"]
+        ],
+        "isLearn": false,
+        "id": "w310"
+      },
+      {
+        "word": "care ",
+        "examples": [
+          [
+            "You mentioned that you know my sister, didn’t you?",
+            "Вы упоминали, что знаете мою сестру, не так ли?"
+          ],
+          [
+            "Your name has never been mentioned in the newspapers",
+            "Ваше имя никогда не упоминалось в газетах"
+          ]
+        ],
+        "translate": "заботиться, беспокоиться, относиться не безразлично",
+        "isLearn": false,
+        "id": "w311"
+      },
+      {
+        "word": "avoid",
+        "translate": "избегать",
+        "examples": [
+          [
+            "She knew he cared for her",
+            "Она знала, что ему она не безразлична \\ что он беспокоится о ней"
+          ],
+          ["I don’t care", "Мне все равно"],
+          ["Who cares?", "Кому какое дело?"],
+          ["to care for children", "заботиться о детях"]
+        ],
+        "isLearn": false,
+        "id": "w312"
+      },
+      {
+        "word": "support",
+        "translate": "поддерживать",
+        "examples": [["Please, take care of my dog", "Пожалуйста, позаботьтесь о моей собаке."]],
+        "isLearn": false,
+        "id": "w313"
+      },
+      {
+        "word": "sing (sang, sung)",
+        "translate": "петь",
+        "examples": [
+          [
+            "After their break-up they avoided each other",
+            "После того как они расстались, они избегали друг друга"
+          ],
+          [
+            "I try to avoid watching silly TV shows",
+            "Я стараюсь избегать просмотра глупых телепередач"
+          ]
+        ],
+        "isLearn": false,
+        "id": "w314"
+      },
+      {
+        "word": "address",
+        "translate": "обращаться к кому-то",
+        "examples": [
+          [
+            "Support local business by buying locally",
+            "Поддержите местный бизнес, приобретая продукцию местных производителей"
+          ],
+          ["Which team do you support?", "Какую команду ты поддерживаешь? (за кого «болеешь»)"]
+        ],
+        "isLearn": false,
+        "id": "w315"
+      },
+      {
+        "word": "smile",
+        "translate": "улыбаться",
+        "examples": [
+          ["She sings, but you better not hear it", "Она поет, но тебе этого лучше не слышать"]
+        ],
+        "isLearn": false,
+        "id": "w316"
+      },
+      {
+        "word": "admit",
+        "translate": "признать",
+        "examples": [
+          ["He addressed the courtroom", "Он обратился к залу суда"],
+          [
+            "He likes to be addressed as “Mister Johns”",
+            "Ему нравится, когда к нему обращаются «мистер Джонс»"
+          ]
+        ],
+        "isLearn": false,
+        "id": "w317"
+      },
+      {
+        "word": "assume",
+        "translate": "предполагать",
+        "examples": [["She smiled at me politely", "Она вежливо мне улыбнулась"]],
+        "isLearn": false,
+        "id": "w318"
+      },
+      {
+        "word": "refer",
+        "translate": "ссылаться на что-то, направлять, отсылать",
+        "examples": [
+          ["We have to admit it, we lost", "Мы должны это признать, мы проиграли"],
+          ["He admitted that he was wrong", "Он признал, что был неправ"]
+        ],
+        "isLearn": false,
+        "id": "w319"
+      },
+      {
+        "word": "announce",
+        "translate": "объявлять",
+        "examples": [
+          [
+            "He was wearing a badge so I assumed he worked there",
+            "Он носил бейдж, поэтому я предположил, что он там работает"
+          ],
+          ["Let’s assume that your plan works", "Давайте предположим, что ваш план сработает"]
+        ],
+        "isLearn": false,
+        "id": "w320"
+      },
+      {
+        "word": "encourage",
+        "examples": [
+          [
+            "For my proof I refer to your letter",
+            "В качестве доказательства я ссылаюсь на твое письмо"
+          ],
+          ["They referred me to the manager", "Меня отослали (перенаправили) к менеджеру"]
+        ],
+        "translate": "воодушевлять, поощрять, побуждать",
+        "isLearn": false,
+        "id": "w321"
+      },
+      {
+        "word": "introduce",
+        "translate": "представлять (напр. одного человека другому),",
+        "examples": [
+          ["Liam and Lora announced their engagement", "Лиам и Лора объявили о своей помолвке"]
+        ],
+        "isLearn": false,
+        "id": "w322"
+      },
+      {
+        "word": "refuse",
+        "translate": "отказываться",
+        "examples": [
+          [
+            "My parents have always encouraged me in everything I’ve wanted to do",
+            "Мои родителя всегда поощряли меня во всем, что я хотел заниматься (поддерживали)"
+          ]
+        ],
+        "isLearn": false,
+        "id": "w323"
+      },
+      {
+        "word": "express",
+        "translate": "выражать",
+        "examples": [
+          [
+            "My teacher encouraged me to keep writing short stories",
+            "Мой учитель советовал (побуждал) продолжать писать рассказы"
+          ]
+        ],
+        "isLearn": false,
+        "id": "w324"
+      },
+      {
+        "word": "settle",
+        "translate": "улаживать (вопрос)",
+        "examples": [
+          ["I’d like to introduce to you my colleague", "Я хочу представить вам моего коллегу"]
+        ],
+        "isLearn": false,
+        "id": "w325"
+      },
+      {
+        "word": "cry",
+        "translate": "плакать (кричать)",
+        "examples": [
+          ["She refused my help", "Она отказалась от моей помощи"],
+          ["I refused to explain", "Я отказался объяснять"]
+        ],
+        "isLearn": false,
+        "id": "w326"
+      },
+      {
+        "word": "insist",
+        "translate": "настаивать",
+        "examples": [
+          ["Her eyes express sadness", "Ее глаза выражали грусть"],
+          ["Words can’t express how happy I am", "Не выразить словами, как я счастлив"]
+        ],
+        "isLearn": false,
+        "id": "w327"
+      },
+      {
+        "word": "ignore",
+        "translate": "игнорировать",
+        "examples": [
+          [
+            "We should settle this matter once and for all",
+            "Нам следует уладить этот вопрос раз и навсегда"
+          ]
+        ],
+        "isLearn": false,
+        "id": "w328"
+      },
+      {
+        "word": "deny",
+        "translate": "отрицать",
+        "examples": [
+          ["She cried when she got the letter", "Она плакала, когда получила письмо"],
+          ["“Watch out!” he cried", "«Берегись!» — воскликнул он"]
+        ],
+        "isLearn": false,
+        "id": "w329"
+      },
+      {
+        "word": "promise",
+        "translate": "обещать",
+        "examples": [
+          [
+            "I insisted on seeing my lawyer",
+            "Я настаивал на том, чтобы мне дали встретиться с моим адвокатом"
+          ],
+          [
+            "He insisted that it was not his fault",
+            "Он настаивал на том, что в этом не было его вины"
+          ]
+        ],
+        "isLearn": false,
+        "id": "w330"
+      },
+      {
+        "word": "demand",
+        "translate": "требовать",
+        "examples": [
+          ["She said that her husband ignored her", "Она сказала, что ее муж игнорирует ее"]
+        ],
+        "isLearn": false,
+        "id": "w331"
+      },
+      {
+        "word": "welcome",
+        "translate": "приветствовать",
+        "examples": [
+          ["He denies that he reads comic books", "От отрицает, что читает комиксы"],
+          ["He denied breaking the vase", "От отрицал, что разбил вазу"]
+        ],
+        "isLearn": false,
+        "id": "w332"
+      },
+      {
+        "word": "invite",
+        "translate": "приглашать",
+        "examples": [
+          [
+            "Promise me to take care of our children",
+            "Пообещай мне, что позаботишься о наших детях"
+          ],
+          [
+            "You promised to help, but didn’t keep your promise",
+            "Ты обещал помочь, но не сдержал обещание"
+          ]
+        ],
+        "isLearn": false,
+        "id": "w333"
+      },
+      {
+        "word": "repeat",
+        "translate": "повторять",
+        "examples": [
+          ["I demand to see my lawyer", "Я требую (увидеть) своего адвоката"],
+          ["I demand an explanation", "Я требую объяснения"]
+        ],
+        "isLearn": false,
+        "id": "w334"
+      },
+      {
+        "word": "recommend",
+        "translate": "рекомендовать",
+        "examples": [
+          ["The visitors were warmly welcomed", "Гостей тепло приветствовали (втречали)"]
+        ],
+        "isLearn": false,
+        "id": "w335"
+      },
+      {
+        "word": "propose",
+        "translate": "предлагать",
+        "examples": [
+          ["You have been invited to the party", "Вас пригласили на вечеринку"],
+          [
+            "She invited the stranger to stay in her inn for a night",
+            "Она пригласила незнакомца остаться на ночь в ее гостинице"
+          ]
+        ],
+        "isLearn": false,
+        "id": "w336"
+      },
+      {
+        "word": "declare",
+        "translate": "объявлять",
+        "examples": [
+          ["Could you repeat the last word, please?", "Вы не могли бы повторить последнее слово?"],
+          ["You repeated your mistake", "Вы повторили свою ошибку"]
+        ],
+        "isLearn": false,
+        "id": "w337"
+      },
+      {
+        "word": "matter",
+        "translate": "иметь значение",
+        "examples": [
+          ["I strongly recommend reading this book", "Я настойчиво рекомендую прочитать эту книгу"]
+        ],
+        "isLearn": false,
+        "id": "w338"
+      },
+      {
+        "word": "judge",
+        "examples": [
+          [
+            "He proposed dealing directly with the suppliers",
+            "Он предложил напрямую работать с поставщиками"
+          ]
+        ],
+        "translate": "судить, осуждать",
+        "isLearn": false,
+        "id": "w339"
+      },
+      {
+        "word": "ensure",
+        "translate": "обеспечивать (гарантировать, убеждаться в чем-то)",
+        "examples": [
+          ["Yesterday my boyfriend proposed (to me)!", "Вчера мой парень сделал мне предложение!"]
+        ],
+        "isLearn": false,
+        "id": "w340"
+      },
+      {
+        "word": "challenge",
+        "translate": "бросать вызов",
+        "examples": [
+          ["They declared themselves (to be) bankrupt", "Они объявили о своем банкротстве"],
+          ["America declared war on Japan in 1941", "Америка объявила войну Японии в 1941 году"]
+        ],
+        "isLearn": false,
+        "id": "w341"
+      },
+      {
+        "word": "warn",
+        "translate": "предупреждать",
+        "examples": [["It doesn’t matter", "Это не имеет значения"]],
+        "isLearn": false,
+        "id": "w342"
+      },
+      {
+        "word": "influence",
+        "translate": "влиять",
+        "examples": [
+          ["Do not judge people by appearance", "Не судите о людях по внешности"],
+          [
+            "You can’t judge people because of what they look like",
+            "Нельзя осуждать людей из-за того, как они выглядят"
+          ]
+        ],
+        "isLearn": false,
+        "id": "w343"
+      },
+      {
+        "word": "blame",
+        "translate": "винить",
+        "examples": [
+          [
+            "The company must ensure safety at the construction site",
+            "Компания должна обеспечить безопасность на строительном объекте"
+          ]
+        ],
+        "isLearn": false,
+        "id": "w344"
+      },
+      {
+        "word": "complain",
+        "translate": "жаловаться",
+        "examples": [
+          ["Achilles challenged Hector to single combat", "Ахиллес вызвал Гектора на поединок"]
+        ],
+        "isLearn": false,
+        "id": "w345"
+      },
+      {
+        "word": "back",
+        "examples": [
+          [
+            "I was warned not to walk alone in this neighborhood",
+            "Меня предупредили, чтобы я не гулял один в этом районе"
+          ],
+          ["Don’t touch anything! You’ve been warned", "Не трогай ничего! Я предупреждал"]
+        ],
+        "translate": "поддерживать, отступать",
+        "isLearn": false,
+        "id": "w346"
+      },
+      {
+        "word": "cite",
+        "translate": "цитировать (ссылаться)",
+        "examples": [["He can influence people", "Он может влиять на людей"]],
+        "isLearn": false,
+        "id": "w347"
+      },
+      {
+        "word": "emphasize",
+        "translate": "подчеркивать (делать ударение на чем-то)",
+        "examples": [
+          ["Don’t blame yourself", "Не вини себя"],
+          [
+            "They blamed videogames for the increase of crime",
+            "Они обвинили видеоигры в росте преступности"
+          ]
+        ],
+        "isLearn": false,
+        "id": "w348"
+      },
+      {
+        "word": "decline",
+        "translate": "отклонять (напр. предложение)",
+        "examples": [
+          ["I had to complain about the noise", "Мне пришлось пожаловаться из-за шума"],
+          ["I will complain to your manager", "Я пожалуюсь вашему менеджеру"]
+        ],
+        "isLearn": false,
+        "id": "w349"
+      },
+      {
+        "word": "accuse",
+        "translate": "обвинять",
+        "examples": [
+          [
+            "They backed the new enterprise by investing in it",
+            "Они поддержали новое предприятие, вложив в него деньги"
+          ],
+          ["The crowd backed away", "Толпа отступила"]
+        ],
+        "isLearn": false,
+        "id": "w350"
+      },
+      {
+        "word": "reject",
+        "translate": "отвергать",
+        "examples": [
+          ["He cited Dostoevsky in his article", "Он процитировал Достоевского в своей статье"],
+          [
+            "She cited three reasons of that disease",
+            "Она сослалась на три причины этого заболевания"
+          ]
+        ],
+        "isLearn": false,
+        "id": "w351"
+      },
+      {
+        "word": "convince",
+        "translate": "убеждать",
+        "examples": [
+          [
+            "I’d like to emphasize how important it is to work together",
+            "Я бы хотел подчеркнуть насколько важно работать вместе"
+          ],
+          ["Use italic to emphasize a word", "Используйте курсив, чтобы выделить слово"]
+        ],
+        "isLearn": false,
+        "id": "w352"
+      },
+      {
+        "word": "approve",
+        "examples": [
+          ["They declined to cooperate", "Они отказались сотрудничать"],
+          ["I decline your offer", "Я отклоняю ваше предложение"]
+        ],
+        "translate": "подтверждать, одобрять",
+        "isLearn": false,
+        "id": "w353"
+      },
+      {
+        "word": "list",
+        "translate": "перечислять, составлять список",
+        "examples": [
+          ["He has been accused of murder", "Его обвинили в убийстве"],
+          ["I’m not accusing you", "Я вас не обвиняю"]
+        ],
+        "isLearn": false,
+        "id": "w354"
+      },
+      {
+        "word": "permit",
+        "translate": "разрешать",
+        "examples": [
+          [
+            "I applied for a job but was rejected",
+            "Я подал заявление о приеме на работу, но его отклонили"
+          ],
+          ["Her family rejected her", "Ее семья отвергла ее"]
+        ],
+        "isLearn": false,
+        "id": "w355"
+      },
+      {
+        "word": "scream",
+        "translate": "кричать",
+        "examples": [
+          ["Convince me to change my mind", "Убеди меня передумать"],
+          ["He convinced the jury of his innocence", "Он убедил присяжных в своей невиновности"]
+        ],
+        "isLearn": false,
+        "id": "w356"
+      },
+      {
+        "word": "shout",
+        "examples": [
+          ["Do you approve the list of guests?", "Вы подтверждаете список гостей?"],
+          ["She doesn’t approve of tattoos", "Она не одобряет татуировки"]
+        ],
+        "translate": "выкрикивать, кричать",
+        "isLearn": false,
+        "id": "w357"
+      },
+      {
+        "word": "inform",
+        "translate": "информировать",
+        "examples": [
+          [
+            "The actors are listed in order of appearance",
+            "Актеры перечислены в порядке появления на экране"
+          ],
+          ["Can you list the names?", "Вы можете перечислить имена?"]
+        ],
+        "isLearn": false,
+        "id": "w358"
+      },
+      {
+        "word": "bother",
+        "translate": "беспокоить",
+        "examples": [
+          [
+            "Visitors are not permitted beyond this point",
+            "Посетителям не разрешается проход дальше этого пункта"
+          ]
+        ],
+        "isLearn": false,
+        "id": "w359"
+      },
+      {
+        "word": "reply",
+        "translate": "отвечать",
+        "examples": [
+          ["to scream for help", "звать на помощь (кричать)"],
+          ["to scream in\\with pain", "кричать от боли"]
+        ],
+        "isLearn": false,
+        "id": "w360"
+      },
+      {
+        "word": "resolve",
+        "translate": "решать (вопрос)",
+        "examples": [
+          ["to shout out the names", "выкрикивать имена"],
+          ["to shout at somebody", "кричать на кого-либо"]
+        ],
+        "isLearn": false,
+        "id": "w361"
+      },
+      {
+        "word": "contact",
+        "examples": [
+          ["I wasn’t informed about this", "Я не был об этом проинформирован"],
+          [
+            "I informed my employer that I could not work on the weekend",
+            "Я сообщил работодателю, что не могу работать на выходных"
+          ]
+        ],
+        "translate": "контактировать, связываться",
+        "isLearn": false,
+        "id": "w362"
+      },
+      {
+        "word": "interview",
+        "translate": "проводить интервью (беседу)",
+        "examples": [
+          ["Do not bother me", "Не беспокойте меня"],
+          [
+            "It bothers me that we don’t have enough water",
+            "Меня беспокоит, что у нас недостаточно воды"
+          ]
+        ],
+        "isLearn": false,
+        "id": "w363"
+      },
+      {
+        "word": "quote",
+        "translate": "цитировать",
+        "examples": [
+          ["She did not reply to my letter", "Она не ответила на мое письмо"],
+          [
+            "She replied to the threats by going to the police",
+            "Она ответила на угрозы, обратившись в полицию"
+          ]
+        ],
+        "isLearn": false,
+        "id": "w364"
+      },
+      {
+        "word": "urge",
+        "examples": [["The problem has been resolved", "Проблема решена"]],
+        "translate": "торопить, убеждать",
+        "isLearn": false,
+        "id": "w365"
+      },
+      {
+        "word": "whisper",
+        "translate": "шептать",
+        "examples": [["How can I contact you?", "Как я могу с вами связаться?"]],
+        "isLearn": false,
+        "id": "w366"
+      },
+      {
+        "word": "favor (favour)",
+        "translate": "оказывать внимание, быть благосклонным",
+        "examples": [
+          [
+            "We are going to interview ten people today",
+            "Сегодня мы проведем собеседование с 10 людьми"
+          ],
+          [
+            "Detective is interviewing her in connection with the incident",
+            "Детектив беседует с ней в связи с инцидентом"
+          ]
+        ],
+        "isLearn": false,
+        "id": "w367"
+      },
+      {
+        "word": "comment",
+        "translate": "коментировать",
+        "examples": [
+          ["He quoted from some TV series", "Он произнес цитату из какого-то телесериала"],
+          [
+            "Bill is, to quote his colleagues, “a working horse”",
+            "Билл был, цитирую его коллег, «рабочей лошадкой»"
+          ]
+        ],
+        "isLearn": false,
+        "id": "w368"
+      },
+      {
+        "word": "negotiate",
+        "translate": "вести переговоры",
+        "examples": [["He urged me to take action", "Он убедил меня предпринять меры"]],
+        "isLearn": false,
+        "id": "w369"
+      },
+      {
+        "word": "advise",
+        "translate": "советовать",
+        "examples": [
+          ["What are you whispering about?", "О чем вы шепчетесь?"],
+          ["She whispered something in his ear", "Она прошептала что-то ему на ушко"]
+        ],
+        "isLearn": false,
+        "id": "w370"
+      },
+      {
+        "word": "criticize",
+        "translate": "критиковать",
+        "examples": [
+          ["Her parents favored her brother", "Ее родители были благосклонны к ее брату"]
+        ],
+        "isLearn": false,
+        "id": "w371"
+      }
+    ]
+  },
+  {
+    "id": "07",
+    "definition": "Борьба",
+    "words": [
+      {
+        "word": "win (won, won)",
+        "translate": "побеждать",
+        "examples": [
+          ["to win the game", "побеждать в игре"],
+          ["Did you win or lose?", "Вы выиграли или проиграли?"]
+        ],
+        "isLearn": false,
+        "id": "w372"
+      },
+      {
+        "word": "kill",
+        "translate": "убивать",
+        "examples": [
+          ["How many of them did you kill?", "Скольких из них ты убил?"],
+          ["Smoking is killing you", "Курение тебя убивает"]
+        ],
+        "isLearn": false,
+        "id": "w373"
+      },
+      {
+        "word": "hit (hit, hit)",
+        "translate": "ударить",
+        "examples": [
+          ["One boy hit the other", "Один мальчик ударил другого"],
+          ["The ball hit the fence", "Мяч ударился об забор"]
+        ],
+        "isLearn": false,
+        "id": "w374"
+      },
+      {
+        "word": "fight (fought, fought)",
+        "examples": [
+          ["Our army fought bravely", "Наша армия сражалась отважно"],
+          ["to fight in the street", "драться на улице"]
+        ],
+        "translate": "драться",
+        "isLearn": false,
+        "id": "w375"
+      },
+      {
+        "word": "shoot (shot, shot)",
+        "translate": "стрелять (снимать на камеру)",
+        "examples": [
+          ["to shoot at the target", "стрелять в мишень"],
+          ["How to shoot professional video", "Как снимать профессиональное видео"]
+        ],
+        "isLearn": false,
+        "id": "w376"
+      },
+      {
+        "word": "protect",
+        "translate": "защищать",
+        "examples": [
+          ["to serve and protect", "служить и защищать"],
+          ["to protect from the bad people", "защищать от плохих людей"]
+        ],
+        "isLearn": false,
+        "id": "w377"
+      },
+      {
+        "word": "force",
+        "translate": "принуждать",
+        "examples": [["You forced me to do that", "Вы вынудили меня это сделать"]],
+        "isLearn": false,
+        "id": "w378"
+      },
+      {
+        "word": "beat (beat, beaten)",
+        "translate": "бить",
+        "examples": [
+          ["Stop beating him!", "Прекратите его бить!"],
+          ["He is beating the wall with his fists", "Он бьет кулами в стену"]
+        ],
+        "isLearn": false,
+        "id": "w379"
+      },
+      {
+        "word": "hurt (hurt, hurt)",
+        "translate": "причинять боль",
+        "examples": [
+          ["He hurt my dog", "Он сделал больно моей собаке"],
+          ["Did they hurt you?", "Они сделали тебе больно? (причинили вред)"]
+        ],
+        "isLearn": false,
+        "id": "w380"
+      },
+      {
+        "word": "strike (struck, struck)",
+        "translate": "ударять (бастовать)",
+        "examples": [
+          [
+            "The victim was struck on the head with a heavy object",
+            "Жертве нанесли удар по голове тяжелым предметом"
+          ],
+          ["We’re striking for better pay", "Мы бастуем за повышение оплаты"]
+        ],
+        "isLearn": false,
+        "id": "w381"
+      },
+      {
+        "word": "threaten",
+        "translate": "угрожать",
+        "examples": [
+          ["He threatened me with a gun", "Он угрожал мне пистолетом"],
+          ["Don’t threaten me!", "Не угрожайте мне!"]
+        ],
+        "isLearn": false,
+        "id": "w382"
+      },
+      {
+        "word": "destroy",
+        "translate": "уничтожать",
+        "examples": [
+          ["The tower was destroyed by bombs", "Башня была разрушена бомбами"],
+          [
+            "That accident has destroyed his confidence",
+            "Это происшествие уничтожило его уверенность в себе"
+          ]
+        ],
+        "isLearn": false,
+        "id": "w383"
+      },
+      {
+        "word": "fire",
+        "translate": "стрелять",
+        "examples": [
+          ["Stop firing at the target", "Прекратите стрелять в мишень"],
+          ["to fire the gun into the air", "стрелять из пистолета в воздух"]
+        ],
+        "isLearn": false,
+        "id": "w384"
+      },
+      {
+        "word": "attack",
+        "translate": "атаковать",
+        "examples": [
+          ["I have been attacked by the cat", "На меня напала кошка"],
+          [
+            "Most animals won’t attack unless they are provoked",
+            "Большинство животных не нападет, если их не провоцировать"
+          ]
+        ],
+        "isLearn": false,
+        "id": "w385"
+      },
+      {
+        "word": "struggle",
+        "translate": "бороться",
+        "examples": [
+          ["to struggle for survival", "бороться за выживание"],
+          [
+            "She struggled with her attacker who then ran away",
+            "Она боролась с человеком, который на нее напал, после чего он убежал"
+          ]
+        ],
+        "isLearn": false,
+        "id": "w386"
+      },
+      {
+        "word": "capture",
+        "translate": "захватывать",
+        "examples": [
+          ["to capture the flag", "захватывать флаг"],
+          ["Two soldiers were captured", "Два солдата были взяты в плен"]
+        ],
+        "isLearn": false,
+        "id": "w387"
+      },
+      {
+        "word": "defend",
+        "translate": "защищать",
+        "examples": [
+          ["to defend the country", "защищать страну"],
+          ["We must defend our rights", "Мы должны бороться за свои права (защищать права)"]
+        ],
+        "isLearn": false,
+        "id": "w388"
+      },
+      {
+        "word": "kick",
+        "translate": "пинать",
+        "examples": [
+          ["to kick the ball", "пинать мяч"],
+          ["She felt the baby kicking", "Она почувствовала, как ребенок пинается"]
+        ],
+        "isLearn": false,
+        "id": "w389"
+      },
+      {
+        "word": "eliminate",
+        "translate": "устранять",
+        "examples": [
+          ["The virus has been eliminated from the body", "Вирус был устранен из тела"],
+          ["The target must be eliminated", "Цель должна быть устранена"]
+        ],
+        "isLearn": false,
+        "id": "w390"
+      },
+      {
+        "word": "score",
+        "translate": "набирать очки (баллы)",
+        "examples": [
+          ["I scored 7 out of 10 in the quiz", "Я набрал 7 очков из 10 в викторине"],
+          [
+            "In American football, a touchdown scores six points",
+            "В американском футболе тачдаун дает шесть очков"
+          ]
+        ],
+        "isLearn": false,
+        "id": "w391"
+      },
+      {
+        "word": "aim",
+        "translate": "целиться",
+        "examples": [["Aim at the legs", "Целься по ногам"]],
+        "isLearn": false,
+        "id": "w392"
+      },
+      {
+        "word": "compete (sport)",
+        "translate": "соревноваться",
+        "examples": [
+          ["They are competing for the gold medal", "Они соревнуются за золотую медаль"],
+          ["Do you compete?", "Вы выступаете на соревнованиях?"]
+        ],
+        "isLearn": false,
+        "id": "w393"
+      },
+      {
+        "word": "confront",
+        "examples": [
+          [
+            "The governor was confronted by angry crowd who blocked his way",
+            "Губернатор столкнулся с сердитой толпой, преградившей ему путь"
+          ],
+          [
+            "He was confronting the armed man",
+            "Он столкнулся с вооруженным мужчиной (противостоял ему)"
+          ]
+        ],
+        "translate": "противостоять (столкнуться со сложной ситуацией, человеком)",
+        "isLearn": false,
+        "id": "w394"
+      },
+      {
+        "word": "resist",
+        "examples": [
+          [
+            "The fortress defenders resisted for three weeks",
+            "Защитники крепости сопротивлялись (защищались) три недели"
+          ],
+          ["She couldn’t resist laughing", "Она не смогла сдержать смех"]
+        ],
+        "translate": "сопротивляться",
+        "isLearn": false,
+        "id": "w395"
+      },
+      {
+        "word": "target",
+        "translate": "делать мишенью, целиться",
+        "examples": [
+          [
+            "They hoped that their house would not be targeted by air strikes",
+            "Они надеялись, что их дом не станет целью воздушных ударов"
+          ]
+        ],
+        "isLearn": false,
+        "id": "w396"
+      },
+      {
+        "word": "overcome",
+        "translate": "преодолевать",
+        "examples": [
+          ["to overcome obstacles", "преодолевать препятствия"],
+          ["He managed to overcome his shyness", "Он сумел преодолеть свою застенчивость"]
+        ],
+        "isLearn": false,
+        "id": "w397"
+      },
+      {
+        "word": "give up (gave, given)",
+        "translate": "сдаваться",
+        "examples": [
+          ["I give up, tell me the answer", "Я сдаюсь, скажи ответ"],
+          ["Drop your weapon, give up", "Брось оружие, сдавайся"]
+        ],
+        "isLearn": false,
+        "id": "w398"
+      },
+      {
+        "word": "surrender",
+        "translate": "сдаваться",
+        "examples": [
+          ["The city surrendered to the invaders", "Город сдался вторгшемуся врагу"],
+          ["They laid down their weapons and surrendered", "Они сложили оружие и сдались"]
+        ],
+        "isLearn": false,
+        "id": "w399"
+      }
+    ]
+  }
+]

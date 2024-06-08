@@ -1,0 +1,111 @@
+[
+  {
+    "id": "01",
+    "definition": "Этапы действия, часть и целое",
+    "words": [
+      {
+        "word": "become (became, become)",
+        "translate": "становиться",
+        "examples": [
+          ["I want to become a vet", "Я хочу стать ветеринаром"],
+          ["She became a good teacher", "Она стала хорошим учителем"]
+        ],
+        "isLearn": false,
+        "id": "w1"
+      },
+      {
+        "word": "begin (began, begun)",
+        "translate": "начинать",
+        "examples": [
+          ["I began a new book", "Я начал (читать) новую книгу"],
+          ["Begin with something interesting", "Начни с чего-нибудь интересного"]
+        ],
+        "isLearn": false,
+        "id": "w2"
+      },
+      {
+        "word": "start",
+        "translate": "начинать",
+        "examples": [
+          ["Start the game", "Начните игру"],
+          ["Don’t start without me", "Не начинайте без меня"]
+        ],
+        "isLearn": false,
+        "id": "w3"
+      },
+      {
+        "word": "continue",
+        "translate": "продолжать",
+        "examples": [["to continue watching\\reading", "продолжать смотреть\\читать"]],
+        "isLearn": false,
+        "id": "w4"
+      },
+      {
+        "word": "go on (went on, gone on)",
+        "translate": "продолжать",
+        "examples": [
+          ["Go on!", "Продолжай! (напр. делать или говорить что-то)"],
+          ["Show must go on", "Шоу должно продолжаться"]
+        ],
+        "isLearn": false,
+        "id": "w5"
+      }
+    ]
+  },
+  {
+    "id": "02",
+    "definition": "Движение",
+    "words": [
+      {
+        "word": "go (went, gone)",
+        "translate": "идти",
+        "examples": [
+          ["I am going to the grocery store", "Я иду в продуктовый магазин"],
+          ["I have to go", "Я должен идти"]
+        ],
+        "isLearn": false,
+        "id": "w23"
+      },
+      {
+        "word": "come (came, come)",
+        "translate": "приходить",
+        "examples": [
+          ["Come to my place", "Приходи ко мне"],
+          ["The winter is coming", "Зима приближается"]
+        ],
+        "isLearn": false,
+        "id": "w24"
+      },
+      {
+        "word": "turn",
+        "translate": "поворачивать",
+        "examples": [
+          ["Turn left, then right", "Поверните налево, затем направо"],
+          ["Turn around", "развернись"]
+        ],
+        "isLearn": false,
+        "id": "w25"
+      },
+      {
+        "word": "run (ran, run) ",
+        "translate": "бежать",
+        "examples": [
+          ["I run with my dog every morning", "Я бегаю со своей собакой каждое утро"],
+          ["You shouldn’t run in a mall", "Не следует бегать в торговом центре"]
+        ],
+        "isLearn": false,
+        "id": "w26"
+      },
+      {
+        "word": "move",
+        "translate": "двигать (-ся)",
+        "examples": [
+          ["to move slowly", "двигаться медленно"],
+          ["Move the chair", "Подвиньте стул"]
+        ],
+        "isLearn": false,
+        "id": "w27"
+      }
+    ]
+  }
+]

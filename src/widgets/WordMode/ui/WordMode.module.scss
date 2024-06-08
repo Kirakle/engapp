@@ -1,0 +1,39 @@
+.WordMode {
+}
+
+.definition {
+  width: 300px;
+  margin: 0 auto;
+  margin-top: 50px;
+  text-align: center;
+  font-size: 18px;
+  color: brown;
+}
+
+.translate {
+  width: 300px;
+  margin: 0 auto;
+  margin-top: 50px;
+  text-align: center;
+  font-size: 18px;
+  color: forestgreen;
+}
+
+.btnContainer {
+  display: flex;
+  justify-content: space-between;
+  width: 350px;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+
+.btnTranslate {
+  text-align: center;
+  width: 170px;
+  border: 1px;
+  padding: 10px;
+  border-radius: 5px;
+  &:hover {
+    background-color: aquamarine;
+  }
+}

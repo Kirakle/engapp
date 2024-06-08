@@ -1,5 +1,6 @@
 import { Link } from 'react-router-dom';
 import style from './Home.module.css';
+import axios from 'axios';
 
 export enum pathes {
   MAIN = '/',
